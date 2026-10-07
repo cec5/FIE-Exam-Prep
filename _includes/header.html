@@ -1,0 +1,9 @@
+<header class="site-header">
+  <div class="container nav-wrap">
+    <nav class="site-nav" aria-label="Main">
+      <a href="{{ '/' | relative_url }}"{% if page.url == '/' %} class="active" aria-current="page"{% endif %}>Home</a>
+      <a href="{{ '/practice/' | relative_url }}"{% if page.url == '/practice/' %} class="active" aria-current="page"{% endif %}>Practice</a>
+      <a href="{{ '/documents/' | relative_url }}"{% if page.url == '/documents/' %} class="active" aria-current="page"{% endif %}>Documents</a>
+    </nav>
+  </div>
+</header>

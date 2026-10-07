@@ -1,0 +1,1322 @@
+{
+  "GEN-001": {
+    "choices": [
+      "3 minutes",
+      "5 minutes",
+      "10 minutes",
+      "15 minutes"
+    ],
+    "correct": 2,
+    "explain": "A fencer must always be allowed a rest period of ten minutes between two consecutive bouts in the direct elimination table (o.80.3).",
+    "ref": "o.80.3"
+  },
+  "GEN-002": {
+    "choices": [
+      "3 minutes",
+      "1 minute",
+      "5 minutes",
+      "10 minutes"
+    ],
+    "correct": 0,
+    "explain": "The time allowed for a fencer to rest between two consecutive bouts in a pool is three minutes (o.71.2).",
+    "ref": "o.71.2"
+  },
+  "GEN-003": {
+    "choices": [
+      "That fencers of the same nationality fence each other last, after meeting every other fencer in the pool",
+      "That fencers of the same nationality do not fence each other in the pool",
+      "That the bout order is drawn again by lots, whatever the nationalities",
+      "That fencers of the same nationality fence each other before meeting fencers of another nationality"
+    ],
+    "correct": 3,
+    "explain": "When several fencers from the same country are in a pool and they do not form the majority, they must fence the bouts between themselves before meeting competitors of another nationality. If they form the majority, the Directoire Technique may set a special order (o.70.1-2).",
+    "ref": "o.70.1-2"
+  },
+  "GEN-004": {
+    "choices": [
+      "Declare the winner immediately by drawing lots, since regulation time has ended with a tied score",
+      "Draw lots for priority, then fence one extra minute for a deciding hit",
+      "Fence on without any time limit until one fencer scores a hit, whatever the pool schedule",
+      "Record the bout as a draw and give each fencer the same result in the pool ranking"
+    ],
+    "correct": 1,
+    "explain": "If the scores are equal at the end of regulation time, the fencers fence for a deciding hit, with a maximum time limit of one minute. Before fencing recommences the referee draws lots to decide who will be the winner if the scores are still equal at the end of the extra minute (t.38.2.b). The fencers are placed on guard in the middle of the piste (t.22.8).",
+    "ref": "t.38.2.b, t.22.8"
+  },
+  "GEN-005": {
+    "choices": [
+      "A draw, 0-0, because neither fencer scored a hit during the extra minute of fencing",
+      "V1-0, adding a hit for the fencer who won the drawing of lots",
+      "V0-0: the actual score, with the winner designated by the drawing of lots",
+      "V5-0, since every victory in a pool is written down as a win by five hits"
+    ],
+    "correct": 2,
+    "explain": "The score sheet always shows the actual score achieved in the bout: V4-4, V3-3, V2-2, V1-1 or V0-0 if the winner is designated by drawing lots (t.38.2.c).",
+    "ref": "t.38.2.c"
+  },
+  "GEN-006": {
+    "choices": [
+      "Annul all hits scored after the order was changed and resume the match in the correct order",
+      "Let the match continue in the new order, since the relays already fought stand",
+      "Annul the whole match and restart it from the first relay",
+      "Annul all hits scored after the change, resume in the correct order and give the team a yellow card"
+    ],
+    "correct": 0,
+    "explain": "The bouts of a match must be fought in the prescribed order. If the order is altered, intentionally or unintentionally, all the hits scored following the modification are annulled and the match is resumed in the correct order (o.99.3). The rules provide no penalty.",
+    "ref": "o.99.3"
+  },
+  "GEN-007": {
+    "choices": [
+      "Only the valid hit counts: the relay ends 10-5 and the red card is carried over to the next relay",
+      "Only the penalty hit counts: the score becomes 9-6 before the relay continues",
+      "The valid hit and the red card cancel each other out: the score stays 9-5",
+      "Both hits are recorded: the score becomes 11-5 going into the third relay"
+    ],
+    "correct": 3,
+    "explain": "Exceptionally, a relay may end above the usual 5, 10, 15 hits if a fencer scores the last valid hit of the relay and is at the same time awarded an additional penalty hit: both hits are counted (t.41.1). The leading fencer therefore reaches 11 and the relay ends 11-5.",
+    "ref": "t.41.1"
+  },
+  "GEN-008": {
+    "choices": [
+      "Only at the end of the third relay, when the team captains hand in the order again",
+      "Before the start of the bout that comes before the replaced fencer's next bout",
+      "Only before the start of the match, when the reserve is nominated on the score-sheet",
+      "Immediately before the bout of the fencer to be replaced begins, at the referee's call"
+    ],
+    "correct": 1,
+    "explain": "The announcement that a fencer is to be substituted must be made at the latest before the beginning of the bout preceding the next bout of the fencer who is to be replaced, and the referee reports it to the opposing team captain (o.99.5.a).",
+    "ref": "o.99.5.a"
+  },
+  "GEN-009": {
+    "choices": [
+      "No, a fencer who has been replaced can never return to the piste in the same match, whatever the reason",
+      "Yes, in any relay and as many times as the team captain asks, with notice to the referee",
+      "Yes, once, but only in place of the fencer who replaced them, and not after a medical withdrawal",
+      "Yes, but only in the final relay of the match, and only when the score is tied"
+    ],
+    "correct": 2,
+    "explain": "A fencer who has been replaced may fence one more time during that match, but only to replace the fencer who originally substituted them. This second replacement is not allowed if the first replacement was made for the reasons listed in o.99.6, that is a medical withdrawal (o.99.5.a; o.99.6.b).",
+    "ref": "o.99.5.a, o.99.6.b"
+  },
+  "GEN-010": {
+    "choices": [
+      "No, not in the same match, but in later matches that day if the same medical delegate agrees",
+      "Yes, once, to replace the reserve if the reserve is also injured and the medical delegate agrees",
+      "Yes, if the team captain asks for it and the opposing team captain agrees to the change",
+      "No, and the fencer may not fence again in any match of the competition that day"
+    ],
+    "correct": 0,
+    "explain": "A competitor replaced because of an accident recognised by a medical representative of the FIE cannot take their place in the team again during the same match (o.99.6.b). In team events the fencer may nevertheless, on the advice of the same medical delegate, fence in subsequent matches on the same day (t.45.4).",
+    "ref": "o.99.6.b, t.45.4"
+  },
+  "GEN-011": {
+    "choices": [
+      "In any relay, as soon as the reserve has fenced one bout and the team captain asks for the return",
+      "Only in the relay immediately after the replacement, after which the reserve takes over again for good",
+      "Only in the last three relays of the match, to give the team a stronger finish at the end",
+      "Only in place of the fencer who replaced them, once, and never after a medical withdrawal"
+    ],
+    "correct": 3,
+    "explain": "The fencer who has been replaced may fence one more time during that match, but only to replace the fencer who originally substituted them. This second replacement is not allowed if the first replacement was made for a medical reason (o.99.5.a; o.99.6).",
+    "ref": "o.99.5.a, o.99.6"
+  },
+  "GEN-012": {
+    "choices": [
+      "No, the reserve may only start at the beginning of the next relay, after the doctor's report",
+      "Yes: the reserve continues from the point where the injured fencer withdrew",
+      "No, the relay is stopped and restarted from 0-0 for the reserve once the injury is attested",
+      "Yes, but only if the injured fencer's team is behind in the score when the injury occurs"
+    ],
+    "correct": 1,
+    "explain": "If a member of a team is obliged to retire because of an accident duly recognised by a medical representative of the FIE, the team captain may put in the reserve to continue the match at the point where the competitor withdrew, even during a bout in progress. The replaced competitor cannot take their place again during that match (o.99.6.a-b).",
+    "ref": "o.99.6.a-b"
+  },
+  "GEN-013": {
+    "choices": [
+      "No, a team must have a reserve to begin a match, as no team may play with three fencers",
+      "No, a team must have four fencers present at the first call, one of them as the reserve",
+      "Yes: a team is complete with three fencers and may begin without a reserve",
+      "Yes, but a reserve may still join the team after the match has started, if the captain asks"
+    ],
+    "correct": 2,
+    "explain": "At each weapon teams consist of three fencers, with or without a reserve (o.97). A team is considered complete when at least three fencers are present, and only the members present at the first call may take part in the match (t.118.2-3).",
+    "ref": "o.97, t.118.2-3"
+  },
+  "GEN-014": {
+    "choices": [
+      "No: if a fencer and the reserve are both forced to withdraw, the team has lost the match",
+      "Yes, with the two remaining fencers covering the bouts of the missing fencer between them",
+      "Yes, with each bout of the missing fencer scored as a 0-5 defeat for the incomplete team",
+      "No, but the team may ask to restart the match later the same day with a new fencer"
+    ],
+    "correct": 0,
+    "explain": "If both a fencer and the reserve, if any, are forced to withdraw and the team is therefore incomplete, it has lost the match and must withdraw from the competition (o.99.7.a).",
+    "ref": "o.99.7.a"
+  },
+  "GEN-015": {
+    "choices": [
+      "No, a substitution that has been announced to the referee can never be annulled afterwards",
+      "Yes, but only if the opposing team captain agrees to the annulment of the request",
+      "No, but the fencer who was to be replaced may fence one more bout before the substitution",
+      "Yes, the captain may annul it; the opposing captain's own request may be kept or cancelled"
+    ],
+    "correct": 3,
+    "explain": "If an accident occurs in the bout which follows the request for a substitution, the team captain may annul that request. If the captain of the opposing team has also requested a substitution, that substitution may be implemented or cancelled (o.99.5.b-c).",
+    "ref": "o.99.5.b-c"
+  },
+  "GEN-016": {
+    "choices": [
+      "Yes, the hand may slip along the handle during an offensive action to gain extra reach",
+      "No: the hand may be moved on the handle, but may not slip along it from front to back",
+      "Yes, but only during an attack with a fleche, where the whole body is thrown forward",
+      "No, the hand may never change position on the handle at any time during a bout"
+    ],
+    "correct": 1,
+    "explain": "If the handle has no special device, attachment or shape, a fencer may hold it any way and may alter the position of the hand during a bout. However the weapon must be used without the hand slipping along the handle from front to back during an offensive action (t.21.2).",
+    "ref": "t.21.2"
+  },
+  "GEN-017": {
+    "choices": [
+      "Yes, as long as the point lands on the valid target and the hit is registered",
+      "Yes, but only with the permission of the referee, given before the bout begins",
+      "No: it may not be used as a throwing weapon, openly or in a disguised way",
+      "No, except during the last minute of the bout, when a deciding hit is at stake"
+    ],
+    "correct": 2,
+    "explain": "The weapon must not be transformed into a throwing weapon, either permanently or temporarily, in an open or disguised manner; it must be used without the hand leaving the handle (t.21.2).",
+    "ref": "t.21.2"
+  },
+  "GEN-018": {
+    "choices": [
+      "No, unless the referee gives special permission after an injury to the hand or arm",
+      "Yes, at any time between two hits, if the referee has been told beforehand",
+      "Yes, but only during the one-minute rest between periods of a direct elimination bout",
+      "No, in no circumstances, even after an injury to the hand or arm of the fencer"
+    ],
+    "correct": 0,
+    "explain": "The weapon must be used with one hand only; a fencer may not change hands before the end of the bout, unless the referee gives special permission in the case of injury to the hand or arm (t.21.4).",
+    "ref": "t.21.4"
+  },
+  "GEN-019": {
+    "choices": [
+      "Give a red card at once as a second group offence, since a spare weapon is compulsory",
+      "Exclude the fencer from the competition, as the fencer is not properly equipped to fence",
+      "No penalty; the fencer fences with the one weapon and borrows a spare if it breaks",
+      "A yellow card (first group); the fencer must get a second weapon within 5 minutes"
+    ],
+    "correct": 3,
+    "explain": "Fencers must arrive on the piste with two weapons, one as a spare (t.117). A fencer who appears with only one regulation weapon commits a first group offence and should obtain regular equipment in a time not exceeding 5 minutes (t.71; t.170 item 1.8).",
+    "ref": "t.71, t.117, t.170 (1.8)"
+  },
+  "GEN-020": {
+    "choices": [
+      "In the positions they held when the bout was halted, as for any other stoppage",
+      "In the middle of the piste, each front foot immediately behind the on-guard line",
+      "On the centre line of the piste, facing each other, with the front feet on the line",
+      "At the two ends of the piste, each fencer's back foot on the rear limit line"
+    ],
+    "correct": 1,
+    "explain": "At the beginning of each period and of any additional minute of fencing time the fencers are placed on guard in the middle of the piste (t.22.8), with the front foot of each immediately behind the on-guard line (t.22.3).",
+    "ref": "t.22.3, t.22.8"
+  },
+  "GEN-021": {
+    "choices": [
+      "In the positions they held when the bout was halted, since no hit was scored by fencing",
+      "With the penalised fencer one metre further back from the position held when halted",
+      "In the middle of the piste, as after a hit, since the red card is a penalty hit",
+      "At the rear limit of the piste for the penalised fencer, as a loss of ground"
+    ],
+    "correct": 2,
+    "explain": "After a valid hit the fencers are put on guard in the middle of the piste (t.22.6); only if no hit is awarded are they replaced where the bout was interrupted (t.22.7). A red card is a penalty hit added to the opponent's score, so the fencers are placed in the middle of the piste.",
+    "ref": "t.22.6, t.22.7"
+  },
+  "GEN-022": {
+    "choices": [
+      "No: a fencer in front of the rear line when the bout halted may not be put behind it",
+      "Yes, whenever the correct fencing distance between the two fencers requires it",
+      "Yes, but only if the opponent agrees and the referee has called two judges",
+      "Yes, but then a hit is awarded against that fencer for crossing the rear limit"
+    ],
+    "correct": 0,
+    "explain": "The competitors may not be replaced on guard at their correct distance in such a way as to place behind the rear line a fencer who was in front of that line when the bout was halted. A fencer who already had one foot behind the rear line remains in that position (t.22.9).",
+    "ref": "t.22.9"
+  },
+  "GEN-023": {
+    "choices": [
+      "The fencer steps back one metre from the point where the piste was left, and no further",
+      "Both fencers are placed on guard in the middle of the piste, as after a hit being scored",
+      "The fencers are replaced where the bout was halted and the fencer receives a yellow card",
+      "The fencer goes back to where the attack began, then steps back a further metre"
+    ],
+    "correct": 3,
+    "explain": "A fencer who crosses a lateral boundary with one or both feet must step back one metre from the point where the piste was left; if the fencer went off the piste during an attack, the fencer must return to the position held when the attack started and then step back a further metre (t.35.1; t.22.10).",
+    "ref": "t.35.1, t.22.10"
+  },
+  "GEN-024": {
+    "choices": [
+      "The fencer returns to the position held at the start of the action, then steps back one more metre",
+      "The fencer steps back one metre from where the piste was left, then both are placed on guard",
+      "The fencers are placed on guard in the middle of the piste, as if a hit had been scored",
+      "The fencers are replaced where they stood, with no loss of ground for either fencer"
+    ],
+    "correct": 1,
+    "explain": "A fencer who crosses a lateral boundary with one or both feet must step back one metre from the point where the piste was left (t.35.1). The fencers are then placed on guard at a distance such that, in the point in line position, the points of the two blades cannot make contact (t.22.5; t.22.10).",
+    "ref": "t.35.1, t.22.5, t.22.10"
+  },
+  "GEN-025": {
+    "choices": [
+      "No, a fencer with a foot off the piste can never score",
+      "Yes, but only if the opponent has both feet on the piste",
+      "Yes, provided the action that resulted in the hit began before 'Halt!'",
+      "No, the hit counts only once the fencer has stepped back onto the piste"
+    ],
+    "correct": 2,
+    "explain": "A hit scored by a fencer who leaves the piste with one foot only is valid, provided that the action was started before the 'Halt!' (t.33.3).",
+    "ref": "t.33.3"
+  },
+  "GEN-026": {
+    "choices": [
+      "No: everything after a fencer goes off the piste with both feet is annulled",
+      "Yes, if the action was begun before the fencer left the piste with both feet",
+      "Yes, but only at foil and sabre, where the convention for priority is applied",
+      "No, and a hit is awarded against that fencer for leaving the lateral boundary"
+    ],
+    "correct": 0,
+    "explain": "If a fencer goes off the piste with both feet, the referee must annul everything that has occurred after the boundary was crossed, except a hit received by that fencer, provided it results from a simple and immediate action (t.33.2).",
+    "ref": "t.33.2"
+  },
+  "GEN-027": {
+    "choices": [
+      "No, if the opponent still manages to score, the fencer is not penalised at all",
+      "Yes, but only a yellow card the first time, as it is a first group offence",
+      "Yes, but only if the referee has called two judges to watch the fencer",
+      "Yes: a second group offence (red card), and the opponent's hit still counts"
+    ],
+    "correct": 3,
+    "explain": "The use of the non-sword hand and arm to carry out an offensive or defensive action is forbidden. The hit scored by the fencer at fault is annulled and the offence is in the second group, a red card (t.29.1-2). The opponent's hit is not affected, so the opponent receives it as well as the penalty hit.",
+    "ref": "t.29.1-2"
+  },
+  "GEN-028": {
+    "choices": [
+      "A penalty from the second group, a red card",
+      "A penalty from the first group, a yellow card the first time",
+      "No penalty if the fencer fixes the hair before the first hit",
+      "Only a warning from the referee, never a card"
+    ],
+    "correct": 1,
+    "explain": "Before the start of the bout the hair must be fastened so that it does not cover a valid surface or conceal the name and nationality of the fencer. In case of violation the referee applies the penalties for first group offences (t.115.2).",
+    "ref": "t.115.2"
+  },
+  "GEN-029": {
+    "choices": [
+      "Give a second group penalty (red card), as for any use of the non-sword arm",
+      "No penalty, if the non-sword hand only touches the body wire and lets go",
+      "A first group penalty, with any hit by the fencer at fault annulled",
+      "Annul the next hit scored by the fencer only, with no card and no warning"
+    ],
+    "correct": 2,
+    "explain": "During the fight the fencer must not take hold of any part of the electrical equipment with the non-sword hand. The referee imposes the penalties for offences of the first group and any hit scored by the fencer at fault is annulled (t.29.3). The referee may call for the help of two neutral judges to watch such infringements (t.30).",
+    "ref": "t.29.3, t.30"
+  },
+  "GEN-030": {
+    "choices": [
+      "No: the break is only granted once the doctor or medical delegate has attested the injury",
+      "Yes, if the injury is obvious to the referee, who may then stop the bout and note it",
+      "Yes, but the break is then limited to 2 minutes instead of the usual 5 minutes",
+      "Yes, if the opposing fencer agrees to the break and the team captain is informed"
+    ],
+    "correct": 0,
+    "explain": "For any injury or other medical reason occurring in the course of a bout, the referee allows a break only when it is properly attested by the delegate of the FIE Medical Commission or, in the absence of the delegate, by the doctor or medical provider on duty. Only the doctor can determine the length of treatment (t.45.1).",
+    "ref": "t.45.1"
+  },
+  "GEN-031": {
+    "choices": [
+      "Yes, if the doctor on duty agrees to a second break for the same injury later on",
+      "Yes, but only after the next bout has been finished and the fencer has rested",
+      "No, and the fencer is penalised with a red card for asking a second time",
+      "No: a further break that day needs a different injury or medical reason"
+    ],
+    "correct": 3,
+    "explain": "During the remainder of the same day, a fencer cannot be allowed a further break unless as a result of a different injury or other medical reason (t.45.2).",
+    "ref": "t.45.2"
+  },
+  "GEN-032": {
+    "choices": [
+      "No, only one medical break is allowed per day, whatever the number of injuries",
+      "Yes: one further break for each different injury, with the doctor's agreement each time",
+      "No, only one medical break is allowed per round of the competition, whatever the cause",
+      "Yes, but a maximum of three breaks per day, whatever the injuries and the doctor's view"
+    ],
+    "correct": 1,
+    "explain": "During the remainder of the same day, a fencer cannot be allowed a further break unless as a result of a different injury or other medical reason, which means a break may be allowed for each different injury (t.45.2).",
+    "ref": "t.45.2"
+  },
+  "GEN-033": {
+    "choices": [
+      "No, the fencer must wait for the full 5 minutes before resuming the bout",
+      "Yes, but only with the opponent's agreement and the referee's permission",
+      "Yes: the break is only for the treatment needed, up to 5 minutes at most",
+      "No, unless the referee gives permission after consulting the team captain"
+    ],
+    "correct": 2,
+    "explain": "The referee allows a break lasting no longer than 5 minutes. Only the doctor can determine the length of time of treatment required, and the break is strictly reserved for the requisite treatment (t.45.1).",
+    "ref": "t.45.1"
+  },
+  "GEN-034": {
+    "choices": [
+      "In all official FIE competitions, from the Olympic Games to satellite events",
+      "Only at the Olympic Games and the World Championships, in all age categories",
+      "Only in team competitions, where the fencers must be identified for the score-sheet",
+      "Only in senior competitions, not in junior or cadet competitions of any kind"
+    ],
+    "correct": 0,
+    "explain": "For all official FIE competitions every fencer must appear with the name and nationality on the back of the jacket (t.74.1; m.25.3.h). Official competitions are listed in o.3: the Olympic Games, the World Championships in all categories, the Grands Prix, the World Cups, the Zonal Championships and the satellite competitions.",
+    "ref": "t.74.1, m.25.3.h, o.3"
+  },
+  "GEN-035": {
+    "choices": [
+      "Only at the Olympic Games and the World Championships, in all age categories",
+      "Only in finals, when the bouts are shown on a screen to the public",
+      "Only in team competitions, where the team must be recognisable as a whole",
+      "In all official FIE competitions, from the Olympic Games to satellite events"
+    ],
+    "correct": 3,
+    "explain": "For all official FIE competitions the wearing of national strips (logos) is compulsory (t.74.2; m.25.3.g). Official competitions are listed in o.3: the Olympic Games, the World Championships in all categories, the Grands Prix, the World Cups, the Zonal Championships and the satellite competitions.",
+    "ref": "t.74.2, m.25.3.g, o.3"
+  },
+  "GEN-036": {
+    "choices": [
+      "A yellow card first, then a red card if the name is still not added at the next call",
+      "Elimination of the fencer from the event, unless the jacket was changed for a spare",
+      "A red card (second group), which adds a penalty hit to the opposing team's score",
+      "A warning only, with no sanction of any kind until the end of the next round"
+    ],
+    "correct": 1,
+    "explain": "A fencer who does not appear with the name and nationality on the back of the jacket is eliminated from the event (t.74; t.170 item 0.1). If the conductive jacket had to be changed for a spare one without the name, the fencer has until the next stage of the competition to have it printed (t.75.1).",
+    "ref": "t.74, t.75.1, t.170 (0.1)"
+  },
+  "GEN-037": {
+    "choices": [
+      "On both arms; on the legs it is optional",
+      "On the chest, in the colours of the federation",
+      "On both legs; on the arms it is optional",
+      "On the back of the jacket, above the name"
+    ],
+    "correct": 2,
+    "explain": "The wearing of national strips (logos) is compulsory on both legs and optional on the arm(s) (m.25.3.g).",
+    "ref": "m.25.3.g"
+  },
+  "GEN-038": {
+    "choices": [
+      "The fencer or team is eliminated from the competition",
+      "A yellow card for the team",
+      "Each absent fencer receives a yellow card, then a red card at one-minute intervals",
+      "The team fences with a penalty hit against it"
+    ],
+    "correct": 0,
+    "explain": "When a fencer or a complete team does not present to the referee at the first call, ten minutes before the time indicated to come onto the piste, the fencer or team concerned is eliminated (t.118.1).",
+    "ref": "t.118.1"
+  },
+  "GEN-039": {
+    "choices": [
+      "A red card at the first call, then elimination at the second call one minute later",
+      "Elimination at the first call, as the pool has already started without the fencer",
+      "A yellow card at the first call, then elimination at a second call two minutes later",
+      "Yellow card, then red card, then elimination, each call one minute after the last"
+    ],
+    "correct": 3,
+    "explain": "If a fencer does not present on the piste ready to fence when ordered by the referee, the fencer receives a yellow card; a second call is made one minute later, followed by a red card; a third and last call is made one minute after the second, followed by elimination (t.119).",
+    "ref": "t.119"
+  },
+  "GEN-040": {
+    "choices": [
+      "The missing control mark (second group), because the more serious fault comes first",
+      "The under-plastron (first group): the least serious fault is penalised first",
+      "Both offences at once, with a single red card that covers the two faults together",
+      "Whichever fault the referee noticed first, in the order the equipment is checked"
+    ],
+    "correct": 1,
+    "explain": "If a referee has to penalise a fencer who has committed several faults at the same time, the least serious fault is penalised first (t.158). The missing under-plastron is a first group offence and the missing control mark a second group offence (t.71; t.73).",
+    "ref": "t.158, t.71, t.73"
+  },
+  "GEN-041": {
+    "choices": [
+      "2 m wide and 14 m long",
+      "1.5 m wide and 12 m long",
+      "1.5 m wide and 14 m long",
+      "1 m wide and 14 m long"
+    ],
+    "correct": 2,
+    "explain": "The combat area of the piste is 1.50 metres wide (t.18.1). The piste is 14 metres long, with a total tolerance of 4 cm on the whole length (t.18.2).",
+    "ref": "t.18.1-2"
+  },
+  "GEN-042": {
+    "choices": [
+      "No: the conductive safety borders do not form part of the piste at all",
+      "Yes, they are part of the piste, so a foot on them is still on the piste",
+      "Yes, but only in the final, where the borders replace the piste edge",
+      "Only when a fencer has one foot on them and the other on the piste"
+    ],
+    "correct": 0,
+    "explain": "The conductive safety borders, for the pistes of pools, direct elimination, finals and semi-finals, do not form part of the piste (t.18.3).",
+    "ref": "t.18.3"
+  },
+  "GEN-043": {
+    "choices": [
+      "A mask and a glove, with ordinary sports clothing for the rest",
+      "A jacket and breeches, but no mask unless the fencers are actually fencing",
+      "Any sports clothing, as warming up is not fencing and no hits are scored",
+      "Full fencing clothing and equipment that conforms to the FIE regulations"
+    ],
+    "correct": 3,
+    "explain": "Any fencer who warms up or trains with another fencer on site must wear full fencing clothing and equipment which conforms with the FIE regulations. The Supervisor or a member of the Directoire Technique penalises any person not respecting this rule with a yellow card, followed by a black card for a repeated infringement (t.20.2; t.170 item 3.5).",
+    "ref": "t.20.2, t.170 (3.5)"
+  },
+  "GEN-044": {
+    "choices": [
+      "A mask and a glove only, as a lesson is not a bout and no hits are scored on the piste",
+      "A mask, a glove, a chest protector, a top covering torso and shoulders, and shorts",
+      "A mask, a glove and a jacket, with any kind of trousers and ordinary sports shoes",
+      "Full fencing clothing identical to that worn in a bout, including breeches and long socks"
+    ],
+    "correct": 1,
+    "explain": "Any fencer taking a lesson must wear at least a mask, a glove, a chest protector, a top covering the torso and shoulders, and shorts which reach to within 10 cm of the knees or lower (t.20.2).",
+    "ref": "t.20.2"
+  },
+  "GEN-045": {
+    "choices": [
+      "Yes, if the coach wears a mask and a glove and the fencer is fully equipped",
+      "Yes, as only the fencer taking the lesson needs protection from the coach's blade",
+      "No: a coach needs at least a master's plastron, a glove, long trousers and a mask",
+      "Yes, if the lesson takes place outside the competition halls, in the warm-up area"
+    ],
+    "correct": 2,
+    "explain": "Any person giving a lesson must wear at least a fencing master's plastron as well as a fencing glove, long trousers and a mask conforming with the regulations (t.20.2).",
+    "ref": "t.20.2"
+  },
+  "GEN-046": {
+    "choices": [
+      "The lower edge of the jacket must overlap the breeches by at least 10 cm in the on-guard position",
+      "The lower edge of the jacket must overlap the breeches by at least 5 cm in the on-guard position",
+      "The lower edge of the jacket must overlap the breeches by at least 15 cm in the on-guard position",
+      "The lower edge of the jacket must reach the knees in the on-guard position"
+    ],
+    "correct": 0,
+    "explain": "At all weapons the lower edge of the jacket must overlap the breeches by at least 10 cm when the fencer is in the on-guard position (m.25.4.a).",
+    "ref": "m.25.4.a"
+  },
+  "GEN-047": {
+    "choices": [
+      "Let the fencers continue, as a simple corps a corps is allowed",
+      "Penalise both fencers with a yellow card",
+      "Give a yellow card to the fencer who came forward",
+      "Stop the bout, calling 'Halt!'"
+    ],
+    "correct": 3,
+    "explain": "Corps a corps exists when the two competitors are in contact. When this occurs the referee must stop the bout (t.25.1) and then replace the fencers on guard (t.32).",
+    "ref": "t.25.1, t.32"
+  },
+  "GEN-048": {
+    "choices": [
+      "No, because the fencer who was subjected to the fault still managed to score",
+      "Yes: a first group offence, and the hit of the fencer at fault is annulled",
+      "Yes, but only if the referee has called two judges to watch the action",
+      "No, a corps a corps is never punishable at any weapon, only stopped"
+    ],
+    "correct": 1,
+    "explain": "At all three weapons it is forbidden to cause corps a corps intentionally to avoid being hit. The referee penalises the fencer at fault with a first group penalty and any hit scored by the fencer at fault is annulled (t.25.2). A hit made by the other fencer is not affected.",
+    "ref": "t.25.2"
+  },
+  "GEN-049": {
+    "choices": [
+      "No, touching the piste with the non-sword hand is a first group offence",
+      "Yes, but only with the non-sword hand, never with the knee of the rear leg",
+      "Yes: ducking is allowed even if the hand or the rear knee touches the piste",
+      "No, a hit made from that position is annulled and the fencer is warned"
+    ],
+    "correct": 2,
+    "explain": "Displacing the target and ducking are allowed even if during the action the unarmed hand and/or the knee of the rear leg comes into contact with the piste (t.27.1).",
+    "ref": "t.27.1"
+  },
+  "GEN-050": {
+    "choices": [
+      "No: a hit made by the fencer after passing the opponent is annulled",
+      "Yes, if the referee has not yet called 'Halt!' when the hit is made",
+      "Yes, if the fencer turns round and hits straight away after the pass",
+      "Yes, but only if the passing movement was itself part of an attack"
+    ],
+    "correct": 0,
+    "explain": "When a fencer goes completely past the opponent, the referee must immediately call 'Halt!'. A hit made after passing the opponent by the fencer who made the passing movement is annulled (t.28.1-2).",
+    "ref": "t.28.1-2"
+  },
+  "GEN-051": {
+    "choices": [
+      "No, once the opponent has passed, every hit made by either fencer is annulled at once",
+      "No, the fencer must first turn round and face the opponent again before hitting",
+      "Yes, but only if the fencer who was attacked does not turn round to make the hit",
+      "Yes: a hit made at once by the fencer who was attacked is valid, even when turning"
+    ],
+    "correct": 3,
+    "explain": "The hit made immediately, even when turning round, by the competitor who has been subjected to the offensive action is valid (t.28.2).",
+    "ref": "t.28.2"
+  },
+  "GEN-052": {
+    "choices": [
+      "From the table of 8, the quarter-finals, in individual events only",
+      "In the final of four fencers, and in the final of team events",
+      "From the table of 16, as soon as the direct elimination is under way",
+      "In every direct elimination bout, from the first round of the table"
+    ],
+    "correct": 1,
+    "explain": "The judges are obligatory for all individual competition finals (4 fencers) and for the final (2 teams) of team events (t.48.2).",
+    "ref": "t.48.2"
+  },
+  "GEN-053": {
+    "choices": [
+      "No, the fencer only loses the break",
+      "Yes, but only a yellow card, as a first group offence",
+      "Yes: a second group penalty (red card)",
+      "Yes, with a black card"
+    ],
+    "correct": 2,
+    "explain": "Should a fencer demand a break which is deemed by the delegate of the Medical Commission or the doctor on duty to be unjustified, the referee penalises that fencer with a second group penalty (t.45.3; t.170 item 2.2).",
+    "ref": "t.45.3, t.170 (2.2)"
+  },
+  "GEN-054": {
+    "choices": [
+      "No: only hits registered by the apparatus count, apart from a penalty hit",
+      "Yes, if the referee clearly saw the hit land on the valid target of the fencer",
+      "Yes, if the two judges on each side of the piste both agree that it landed",
+      "Yes, if the fencer who was hit admits to the referee that it landed"
+    ],
+    "correct": 0,
+    "explain": "Under no circumstances can the referee declare a competitor to be hit unless the hit has been properly registered by the apparatus, except when a penalty hit has been awarded (t.54.2).",
+    "ref": "t.54.2"
+  },
+  "GEN-055": {
+    "choices": [
+      "Either the fencer on the piste or the team captain",
+      "Any member of the team, including the reserve",
+      "The team captain only",
+      "Only the fencer who is on the piste"
+    ],
+    "correct": 3,
+    "explain": "Both in team and individual events, only the fencer on the piste has the right to request a video review (t.60).",
+    "ref": "t.60"
+  },
+  "GEN-056": {
+    "choices": [
+      "No, only the fencers can start a video review, and only by using one of their appeals",
+      "Yes: on their own initiative, at the video-referee's request, or before a deciding hit",
+      "Yes, but only at the request of the Directoire Technique or of the supervisor of the competition",
+      "Yes, but only when both fencers ask for a review together, one after the other, on the piste"
+    ],
+    "correct": 1,
+    "explain": "At all weapons and at any time the referee may consult the monitor before making a decision. If the scores are equal at the end of the match, the referee must use the video before giving a decision on the decisive hit, and the video-referee may at any time request the referee to use it (t.62.2-5).",
+    "ref": "t.62.2-5"
+  },
+  "GEN-057": {
+    "choices": [
+      "Yes, if the video-referee asks for another look at the same action straight afterwards",
+      "Yes, if the fencer who appealed still has an appeal left in that bout of the match",
+      "No: the decision after the review is final, and the same action cannot be reviewed again",
+      "Yes, but only in slow motion, and only one more time for the same action in the bout"
+    ],
+    "correct": 2,
+    "explain": "Once the referee, together with the video-referee, has analysed the action, whether at the referee's initiative, at the request of the athlete, in case of a tied score or at the video-referee's request, the decision is final and no other review of the same action can be requested (t.62.5).",
+    "ref": "t.62.5"
+  },
+  "GEN-058": {
+    "choices": [
+      "A second group penalty (red card), and the registered hit is disregarded",
+      "A first group penalty (yellow card), with the registered hit disregarded",
+      "No penalty: the hit is simply disregarded, since it was not made on the opponent",
+      "A black card at once, as the fencer has tried to cheat the apparatus"
+    ],
+    "correct": 0,
+    "explain": "A competitor who intentionally causes the apparatus to register a hit by placing the point on the ground or on any surface other than that of the opponent is penalised in the second group (t.55.2; t.170 item 2.5). The hit itself is disregarded (t.55.1).",
+    "ref": "t.55.1-2, t.170 (2.5)"
+  },
+  "GEN-059": {
+    "choices": [
+      "Yes, if the failure is then confirmed by the tests that the referee makes afterwards",
+      "Yes, if the referee agrees that the modification was needed to continue the bout",
+      "Yes, but only the last hit may be annulled, and only once in the whole bout",
+      "No: changing the equipment before the referee decides loses the right to annulment"
+    ],
+    "correct": 3,
+    "explain": "A competitor who makes any modification in, or changes, the equipment without being asked by the referee to do so, before the referee has given a decision, loses all right to the annulment of the hit (t.56.3).",
+    "ref": "t.56.3"
+  },
+  "GEN-060": {
+    "choices": [
+      "Yes, if a test made after the restart still shows the failure of the equipment clearly",
+      "No: after the bout has effectively recommenced the hit can no longer be contested",
+      "Yes, but only for the last hit scored before the bout was restarted by the referee",
+      "Yes, if the referee changes the equipment of the fencer who was hit at the restart"
+    ],
+    "correct": 1,
+    "explain": "If the bout has effectively recommenced, a competitor cannot claim the annulment of a hit awarded against the competitor before the recommencement (t.56.4).",
+    "ref": "t.56.4"
+  },
+  "GEN-061": {
+    "choices": [
+      "Twice, so that the referee can be sure that the failure is genuine and not a fluke",
+      "Three times, in three separate tests made under the supervision of the referee",
+      "Once, if the referee observes the failure without any doubt during the tests",
+      "The failure must repeat itself each time the referee makes a test of the equipment"
+    ],
+    "correct": 2,
+    "explain": "It is not necessary that the failure found should repeat itself each time a test is made, but it is essential that the fault should be observed by the referee without any possibility of doubt at least once during the tests (t.56.6).",
+    "ref": "t.56.6"
+  },
+  "GEN-062": {
+    "choices": [
+      "No: the hit stands if the blade clearly broke after the hit was registered",
+      "Yes, any broken blade means that the hit must be annulled by the referee",
+      "Yes, if the referee did not see exactly when the blade broke during the phrase",
+      "Yes, but only in direct elimination bouts, and not in the pool round of the event"
+    ],
+    "correct": 0,
+    "explain": "When a competitor against whom a hit has been registered has broken the blade, the hit must be annulled unless the breaking of the blade clearly occurred after the hit was registered (t.56.7).",
+    "ref": "t.56.7"
+  },
+  "GEN-063": {
+    "choices": [
+      "No, the hit stands because the fencer's own equipment failed during the action",
+      "No, unless the fencer asks for a video review of the action straight afterwards",
+      "Yes, but only if the apparatus registered a second hit after the blade broke",
+      "Yes: the hit is annulled, since the blade did not break clearly after the hit"
+    ],
+    "correct": 3,
+    "explain": "When a competitor against whom a hit has been registered has broken the blade, the hit must be annulled unless the breaking of the blade clearly occurred after the hit was registered (t.56.7).",
+    "ref": "t.56.7"
+  },
+  "GEN-064": {
+    "choices": [
+      "One, as in a pool bout, and the right is lost whatever the referee decides",
+      "Two, and the fencer keeps the right if the referee agrees with the appeal",
+      "Three, one for each of the three periods of the bout, each used only once",
+      "As many times as the referee agrees with the fencer, but never more than five"
+    ],
+    "correct": 1,
+    "explain": "In direct elimination bouts the fencer has two possible appeals. Should the referee agree with the fencer who appealed, the fencer is entitled to retain the right of appeal (t.61).",
+    "ref": "t.61"
+  },
+  "GEN-065": {
+    "choices": [
+      "Twice per relay, and the fencer keeps the right if the referee agrees with the appeal",
+      "Once per match for the whole team, to be used by any of the three fencers",
+      "Once per relay, and the right is kept if the referee agrees with the appeal",
+      "Once per relay, but only the team captain may use it, not the fencer on the piste"
+    ],
+    "correct": 2,
+    "explain": "In team events the fencers have one possible right of appeal to the video-refereeing per relay, and they are entitled to retain this right should the referee agree with the appeal (t.61).",
+    "ref": "t.61"
+  },
+  "GEN-066": {
+    "choices": [
+      "When the referee agrees with the fencer's appeal",
+      "When the video-referee asks the referee to review the action",
+      "When the appeal is made in the first period",
+      "When the fencer is leading in the score"
+    ],
+    "correct": 0,
+    "explain": "Should the referee agree with the fencer who appealed for the video-refereeing, the fencer is entitled to retain the right of appeal (t.61).",
+    "ref": "t.61"
+  },
+  "GEN-067": {
+    "choices": [
+      "The jacket, the mask and the glove",
+      "The breeches, the jacket and the shoes",
+      "The jacket, the conductive jacket and the under-plastron",
+      "The socks, the breeches and the jacket"
+    ],
+    "correct": 3,
+    "explain": "The national uniform includes the socks, the breeches and the jacket (m.25.3.a).",
+    "ref": "m.25.3.a"
+  },
+  "GEN-068": {
+    "choices": [
+      "Yes, with a different national uniform for each member of the team in the match",
+      "Yes, but only one national uniform per country, apart from manufacturers' marks",
+      "Yes, but only in black, so that the three fencers look identical in the match",
+      "No, the national uniform is only required in individual events, not in team events"
+    ],
+    "correct": 1,
+    "explain": "There shall be only one national uniform per country, with the exception that the manufacturers' marks and sponsors' logos may be different (m.25.3.e). Fencers' clothing may be of different colours, apart from black (m.25.3.d). The national uniform is required in all official FIE competitions (t.74.2).",
+    "ref": "m.25.3.a, m.25.3.d-e, t.74.2"
+  },
+  "GEN-069": {
+    "choices": [
+      "Compulsory for men and optional for women",
+      "Compulsory for all fencers",
+      "Compulsory for women and optional for men",
+      "Optional for everyone"
+    ],
+    "correct": 2,
+    "explain": "At all weapons the use of a breast/chest protector is compulsory for women and optional for men (m.25.4.c).",
+    "ref": "m.25.4.c"
+  },
+  "GEN-070": {
+    "choices": [
+      "Approximately half of the forearm of the sword arm",
+      "Only the wrist and the lower part of the forearm",
+      "The whole forearm, as far as the elbow of the sword arm",
+      "Approximately a third of the forearm of the sword arm"
+    ],
+    "correct": 0,
+    "explain": "At all weapons the gauntlet of the glove must, in all circumstances, fully cover approximately half the forearm of the competitor's sword arm, to prevent the opponent's blade entering the sleeve of the jacket (m.25.6).",
+    "ref": "m.25.6"
+  },
+  "GEN-071": {
+    "choices": [
+      "Delay the match until every fencer of the team wears a mask of the same colour",
+      "Give the team a yellow card for non-uniform equipment",
+      "Start the match, but only after the fencers with a different mask change them",
+      "Start the match: the rules do not require the masks of a team to be identical"
+    ],
+    "correct": 3,
+    "explain": "The rules require one national uniform per country but contain no requirement that the masks of a team be identical. Clothing may be of different colours apart from black (m.25.3.d), and coloured masks are permitted if approved (Annexe A, coloured masks).",
+    "ref": "m.25.3.d, Annexe A (coloured masks)"
+  },
+  "GEN-072": {
+    "choices": [
+      "Annul the hit, because the fencer who stopped had already ceased the action in the phrase",
+      "Award the hit: a hit made after a fencer stops, but before 'Halt!', is valid",
+      "Replace the fencers on guard without awarding the hit, as the action had stopped",
+      "Award the hit only if the fencer who stopped was retreating at that moment"
+    ],
+    "correct": 1,
+    "explain": "If a competitor stops before the word 'Halt!' and is hit, the hit is valid (t.23.4).",
+    "ref": "t.23.4"
+  },
+  "GEN-073": {
+    "choices": [
+      "Two",
+      "Three",
+      "Four",
+      "Five"
+    ],
+    "correct": 2,
+    "explain": "There shall only be a maximum of 4 repetitions of the action. The referee can review the action in real time or in slow motion (t.62.1).",
+    "ref": "t.62.1"
+  },
+  "GEN-074": {
+    "choices": [
+      "No: not with any other role, such as Directoire Technique member or trainer",
+      "Yes, but only as a team captain, and only for the team of their own nation",
+      "Yes, as a trainer, but only outside the bouts that they referee themselves",
+      "Yes, as a member of the Directoire Technique, when the delegates agree"
+    ],
+    "correct": 0,
+    "explain": "Referees may not combine their function with any other activity during the tournament, such as member of the Directoire Technique, team captain, official delegate of their national federation, trainer, etc. (t.46.2).",
+    "ref": "t.46.2"
+  },
+  "GEN-075": {
+    "choices": [
+      "At the level of the hips, in black Roman capitals between 8 cm and 10 cm high",
+      "At the level of the shoulder blades, in red Roman capitals between 5 and 6 cm high",
+      "At the level of the shoulder blades, in dark blue italic capitals 12 cm high",
+      "At the level of the shoulder blades, in dark blue Roman capitals 8 to 10 cm high"
+    ],
+    "correct": 3,
+    "explain": "The family name is displayed on the back of the jacket, with the abbreviation of the national federation below it, at the level of the shoulder blades. They are printed directly onto the jacket or onto a cloth entirely sewn onto it, in dark blue Roman capitals between 8 cm and 10 cm high, each stroke at most 1.5 cm wide (m.25.3.h).",
+    "ref": "m.25.3.h"
+  },
+  "GEN-076": {
+    "choices": [
+      "Only the team captain",
+      "The fencer or the team captain",
+      "Only the fencer on the piste",
+      "Any member of the team, including the reserve"
+    ],
+    "correct": 1,
+    "explain": "The appeal to the referee must be made, in team events, by the fencer or the team captain, courteously and verbally, immediately and before any decision is made regarding a subsequent hit (t.173.2).",
+    "ref": "t.173.2"
+  },
+  "GEN-077": {
+    "choices": [
+      "The fencer's coach",
+      "The fencer or the team manager",
+      "Only the fencer",
+      "Any fencer taking part in the event"
+    ],
+    "correct": 2,
+    "explain": "The appeal to the referee must be made, in individual events, by the fencer (t.173.1).",
+    "ref": "t.173.1"
+  },
+  "GEN-078": {
+    "choices": [
+      "The time required to perform one simple fencing action",
+      "The time between the commands to start and to stop the bout",
+      "The time of one period of three minutes in a direct elimination bout",
+      "The time a fencer takes to return to the on-guard position after an action"
+    ],
+    "correct": 0,
+    "explain": "Fencing time is the time required to perform one simple fencing action (t.8).",
+    "ref": "t.8"
+  },
+  "GEN-079": {
+    "choices": [
+      "Two in each pool bout and one in each direct elimination bout",
+      "One in the whole competition, to be kept for the direct elimination",
+      "Two in every bout, in the pools and in the direct elimination alike",
+      "One in each pool bout and two in each direct elimination bout"
+    ],
+    "correct": 3,
+    "explain": "In the individual events the fencer has one possible appeal during each bout in pools and two possible appeals in direct elimination bouts (t.61).",
+    "ref": "t.61"
+  },
+  "GEN-080": {
+    "choices": [
+      "The riposte",
+      "The parry",
+      "The remise",
+      "The redoublement"
+    ],
+    "correct": 1,
+    "explain": "The defensive actions are the parries. The parry is the defensive action made with the weapon to prevent an offensive action arriving (t.9.2).",
+    "ref": "t.9.2"
+  },
+  "GEN-081": {
+    "choices": [
+      "The simple parry",
+      "The circular parry (counter-parry)",
+      "The riposte",
+      "Closing the line in which the attack is to finish"
+    ],
+    "correct": 2,
+    "explain": "The offensive actions are the attack, the riposte and the counter-riposte (t.9.1). The remise, the redoublement, the reprise and counter-time are other offensive actions (t.13). Parries are defensive (t.9.2).",
+    "ref": "t.9.1, t.13"
+  },
+  "GEN-082": {
+    "choices": [
+      "A first group penalty: a yellow card the first time, then a red card",
+      "A second group penalty (red card) on the first unjustified appeal",
+      "The fencer only loses the right to any further appeal in the bout",
+      "A warning only, as an appeal is a right of every fencer in the bout"
+    ],
+    "correct": 0,
+    "explain": "If a fencer casts doubt on the decision of the referee on a point of fact, or an appeal is deemed unjustified, the fencer is penalised in the first group (t.172.2; t.174; t.170 item 1.17).",
+    "ref": "t.172.2, t.174, t.170 (1.17)"
+  },
+  "GEN-083": {
+    "choices": [
+      "As soon as a hit is signalled by the lamps",
+      "Off the piste at any time, as the rule applies only on the piste",
+      "When the referee begins to analyse the phrase",
+      "Only after the referee has called 'Halt!'"
+    ],
+    "correct": 3,
+    "explain": "The fencer, whether on or off the piste, must keep the mask on until the referee calls 'Halt!'. Any infringement is a first group offence (t.125).",
+    "ref": "t.125"
+  },
+  "GEN-084": {
+    "choices": [
+      "A red card at once, as a second group offence for dangerous protective equipment",
+      "A first group penalty (yellow card); the fencer has 5 minutes to change it",
+      "No penalty, if the under-plastron still covers the vital areas of the upper body",
+      "The fencer may fence, but must change the under-plastron before the next bout begins"
+    ],
+    "correct": 1,
+    "explain": "The fastenings of under-plastrons must be protected by a flap in the direction of the armed arm: right-handed from right to left, left-handed from left to right (m.25.3.c). An under-plastron for the other hand does not conform, which is a first group offence, and the fencer must obtain regulation equipment within 5 minutes (t.64.5; t.71).",
+    "ref": "m.25.3.c, t.64.5, t.71"
+  },
+  "GEN-085": {
+    "choices": [
+      "A distance at which the points of the two blades touch when both fencers are in line",
+      "Exactly four metres between the front feet of the two fencers, whatever their reach",
+      "A distance at which the points cannot touch when both fencers are in line",
+      "As close as the fencers choose, as long as the two fencers are not touching"
+    ],
+    "correct": 2,
+    "explain": "When placed on guard during the bout, the distance between the two competitors must be such that, in the position point in line, the points of the two blades cannot make contact (t.22.5).",
+    "ref": "t.22.5"
+  },
+  "GEN-086": {
+    "choices": [
+      "Yes: any hit made during or after a fall must be annulled by the referee",
+      "No, a fall does not affect a hit made at once by the fencer who falls",
+      "No, unless the referee decides that the fall was made intentionally by the fencer",
+      "Yes, but only if it was the fencer who fell who was hit by the opponent"
+    ],
+    "correct": 0,
+    "explain": "A hit made during or after a fall must be annulled (t.56.10).",
+    "ref": "t.56.10"
+  },
+  "GEN-087": {
+    "choices": [
+      "Award the hit to Fencer Y, since it was scored legitimately",
+      "Annul the hit and replace the fencers on guard, with no penalty",
+      "Annul Fencer Y's hit and give a red card (second group)",
+      "Annul Fencer Y's hit and give Fencer Y a first group penalty"
+    ],
+    "correct": 3,
+    "explain": "An intentional fall to avoid the hit is forbidden: any hit scored by the fencer at fault is annulled and the offence is in the first group (t.121.2; t.170 item 1.16). A hit made during or after a fall must in any case be annulled (t.56.10).",
+    "ref": "t.121.2, t.56.10, t.170 (1.16)"
+  },
+  "GEN-088": {
+    "choices": [
+      "From the moment the referee stops the bout because of the fencer's injury",
+      "From the intervention of the Medical Commission delegate or of the doctor",
+      "From the moment the fencer asks the referee for a break for medical treatment",
+      "From the moment the fencer leaves the piste to be treated by the doctor"
+    ],
+    "correct": 1,
+    "explain": "The break is timed from the intervention of the delegate of the FIE Medical Commission or, in the absence of the delegate, from the moment the doctor gave an opinion (t.45.1).",
+    "ref": "t.45.1"
+  },
+  "GEN-089": {
+    "choices": [
+      "A red card at once, which gives the opposing team a penalty hit in the relay",
+      "A yellow card for the first infringement, then a red card for the second",
+      "A yellow card for the first infringement, a black card for the second",
+      "A verbal warning only, as cards are given only for offences on the piste"
+    ],
+    "correct": 2,
+    "explain": "Any person not on the piste who disturbs the good order of the competition receives a yellow card, valid for the whole competition, for the first infringement and a black card for the second. In the most serious cases the referee may exclude or expel the person immediately (t.168).",
+    "ref": "t.168"
+  },
+  "GEN-090": {
+    "choices": [
+      "A yellow card for the whole team, valid for the whole team match",
+      "A red card for the fencer who entered the enclosure, with a penalty hit",
+      "A yellow card for the fencer who entered, valid for that bout only",
+      "A penalty hit added to the opposing team's score, valid for that relay"
+    ],
+    "correct": 0,
+    "explain": "During team competitions no one has the right to enter the piste enclosure without the referee's permission. The referee penalises the offending team with a warning which is valid for the complete team match; if a fencer commits another first group offence in the same match, the fencer receives a red card each time (t.132.2; t.170 item 1.18).",
+    "ref": "t.132.2, t.170 (1.18)"
+  },
+  "SAB-001": {
+    "choices": [
+      "Award the hit to Fencer Y, because the apparatus registered only Fencer Y's hit, and the referee may only award hits that the apparatus shows",
+      "Test the equipment; if the mask wire fault is confirmed, annul Fencer Y's hit and replace the fencers on guard, with no penalty",
+      "Award the hit to Fencer X, because the attack had priority and the head cut clearly landed on the valid target, even if the apparatus did not show it",
+      "Annul Fencer Y's hit, give a yellow card to the fencer whose mask wire was disconnected, and replace the fencers on guard"
+    ],
+    "correct": 1,
+    "explain": "The referee must annul a hit awarded on the apparatus's signal if tests (made before the bout restarts, with nothing changed) show that a hit made by the fencer judged to have been hit did not register (t.99.1; t.56.1-2). Fencer X's valid head cut did not register because of the disconnected mask wire, so Fencer Y's hit is annulled. The referee still cannot award Fencer X a hit the apparatus did not show (t.54.2). A fault that can arise during the bout carries no penalty (t.72). With no hit awarded, the fencers go back where the bout was interrupted (t.22.7).",
+    "ref": "t.99.1, t.56.1-2, t.54.2, t.72, t.22.7"
+  },
+  "SAB-002": {
+    "choices": [
+      "Award the hit to Fencer X: Fencer Y attacked into the point in line without deflecting the blade first",
+      "Annul both hits as a simultaneous action and replace the fencers on guard",
+      "Award the hit to Fencer Y: Fencer X hit with the cutting edge, so the line lost the right of way",
+      "Replace the fencers on guard, because it cannot be determined whose action had priority"
+    ],
+    "correct": 2,
+    "explain": "A point in line only gives priority if the fencer stays in that position and finishes the action with a direct hit of the tip of the blade. Fencer X hit with the cutting edge, so did not keep the line and the point-in-line priority is lost (t.15; t.102.1; t.106.4.a). Fencer Y's step-forward-lunge was a correctly executed attack (t.101.4), so Fencer Y gets the hit.",
+    "ref": "t.15, t.101.4, t.102.1, t.106.4.a"
+  },
+  "SAB-003": {
+    "choices": [
+      "Give a red card at once: the jacket is not regulation equipment, which is a second group offence",
+      "Give a yellow card, but let the fencer fence in it; the jacket only has to be changed before the next bout",
+      "The fencer cannot fence with it: yellow card (first group) and up to 5 minutes to change it",
+      "No penalty, provided the jacket covers the whole valid target when the fencer is on guard"
+    ],
+    "correct": 2,
+    "explain": "The fastenings of the jacket must be covered by a flap sewn in the direction of the armed arm: right-handed from right to left, left-handed from left to right (m.25.3.c). A right-hander's conductive jacket therefore does not conform on a left-hander (see also t.64.4). Non-conforming clothing or equipment is a first group offence: a yellow card the first time, and the fencer must obtain regulation equipment within 5 minutes (t.71; t.75.1).",
+    "ref": "m.25.3.c, t.64.4, t.71, t.75.1, t.170 (1.8)"
+  },
+  "SAB-004": {
+    "choices": [
+      "Annul Fencer X's hit, give Fencer X a yellow card (first group), and award no hit to Fencer Y: the counter attack was not in time",
+      "Annul Fencer X's hit, give Fencer X a yellow card, and award the hit to Fencer Y, because the guard hit means Fencer X made no valid attack",
+      "Annul both hits as a simultaneous action and replace the fencers on guard, with no penalty",
+      "Award Fencer X's hit, since it registered on valid target and an attack has priority over a counter attack"
+    ],
+    "correct": 0,
+    "explain": "At sabre it is forbidden to hit with the guard: the hit is annulled and the offence is in the first group (t.96.3; t.170 item 1.12), a yellow card the first time and a red card if the fencer already has a yellow in the bout (t.165). Fencer X's action is still the attack, so Fencer Y's counter attack into it was not in time (a stop hit into a simple attack, t.106.3.a) and Fencer Y's hit is not awarded. With no hit awarded, the fencers are replaced where the bout was interrupted (t.22.7).",
+    "ref": "t.96.3, t.106.3.a, t.165, t.170 (1.12), t.22.7"
+  },
+  "SAB-005": {
+    "choices": [
+      "Annul both hits as a simultaneous action; no penalty is given because there was no brutality involved",
+      "Award Fencer X's hit, because the guard landed on the valid target of the mask without any brutality",
+      "Yellow card for Fencer X, Fencer X's hit annulled, and the hit awarded to Fencer Y, whose attack was properly executed",
+      "Yellow card for Fencer X and Fencer X's hit annulled; the attacks were simultaneous, so no hit is awarded"
+    ],
+    "correct": 3,
+    "explain": "A hit made with the guard is forbidden at sabre even when no brutality is involved: it is annulled and the offence is in the first group, a yellow card the first time and a red card if it happens again in the bout (t.96.3; t.165). Both fencers attacked simultaneously, so neither had priority (t.106.1), and Fencer Y's hit is not awarded either. The fencers are replaced where the bout was interrupted (t.22.7).",
+    "ref": "t.96.3, t.106.1, t.165, t.170 (1.12), t.22.7"
+  },
+  "SAB-006": {
+    "choices": [
+      "Annul both hits as a simultaneous action, because both fencers started to act right after the command, and replace them on guard in the centre",
+      "Award the hit to Fencer Y, because a point in line established at the start of the bout always has priority over an attack",
+      "Replace the fencers on guard, because it cannot be determined whose action started first",
+      "Award the hit to Fencer X: the attack began first, so Fencer Y's point in line is only a counter attack into the attack"
+    ],
+    "correct": 3,
+    "explain": "A point in line only obliges the attacker to deflect it if it was established before the attack began (t.102.1). Here the attack starts first, so it is properly executed (arm straightening precedes the lunge, t.101.3-4) and must be parried or avoided. The fencer who is attacked and makes a stop hit is alone counted as hit (t.106.3.a). Fencer Y has committed no offence by extending the arm after the command.",
+    "ref": "t.102.1, t.101.3-4, t.106.3.a, t.15"
+  },
+  "SAB-007": {
+    "choices": [
+      "Annul both hits and replace the fencers on guard; the score stays 4:3 because neither hit counts",
+      "Annul Fencer X's hit and award Fencer Y's hit, with no further card for Fencer X, who already has a yellow card; the score becomes 4:4",
+      "Annul Fencer X's hit, give Fencer X a red card and award Fencer Y's hit; the score becomes 4:5",
+      "Award Fencer X's hit and give Fencer X a red card for the fleche; the score becomes 5:4"
+    ],
+    "correct": 2,
+    "explain": "The fleche, or any forward movement in which the rear foot passes the front foot, is forbidden at sabre. The hit of the fencer at fault is annulled, but any hit correctly executed by the opponent is valid (t.101.5). Fencer X already has a yellow card, so a further first group offence in the same bout is a red card (t.165). Fencer Y therefore receives a hit plus the penalty hit: 3 + 1 + 1 = 5, against 4 for Fencer X.",
+    "ref": "t.101.5, t.165, t.170 (1.12)"
+  },
+  "SAB-008": {
+    "choices": [
+      "90 cm",
+      "88 cm",
+      "105 cm",
+      "80 cm"
+    ],
+    "correct": 1,
+    "explain": "The maximum length of the sabre blade is 88 cm. 105 cm is the maximum total length of the whole sabre ready for use (m.21, m.23.1).",
+    "ref": "m.21, m.23.1"
+  },
+  "SAB-009": {
+    "choices": [
+      "A single continuous curve of less than 4 cm, not towards the cutting edge, with no sharp bends",
+      "A single curve of less than 4 cm, which may curve towards the cutting edge if the end is not bent",
+      "Less than 1 cm in any direction; a larger curve means the blade is bent and must be replaced",
+      "Less than 6 cm, provided the extremity is straight and the curve is continuous"
+    ],
+    "correct": 0,
+    "explain": "The blade may have a distinct, continuous curve whose deflection is less than 4 cm, measured as the greatest distance between the blade and a flat surface when the blade lies with the curve uppermost. Blades with sharply bent extremities, or that curve in the direction of the cutting edge, are forbidden (m.23.3). This is separate from the flexibility test, a bend of 4 to 7 cm under a 200 g weight (m.23.4).",
+    "ref": "m.23.3, m.23.4"
+  },
+  "SAB-010": {
+    "choices": [
+      "It may be coiled to take up slack, provided its total length does not exceed 40 cm and it is covered by white insulation",
+      "It must be 50 to 60 cm long and attached to the mask and the jacket by a plug-in connector at each end",
+      "It may be of any colour and any length, as long as it is well insulated and its resistance is below 5 ohms",
+      "It must be white or clear-covered, 30 to 40 cm long, not coiled, with a crocodile clip soldered at each end"
+    ],
+    "correct": 3,
+    "explain": "The electrical contact between the mask and the conductive jacket is made by a white or clear-covered wire between 30 cm and 40 cm long, with a crocodile clip at each end, soldered to the wire. A coiled mask wire is not allowed, and the resistance of the wire between the clips must not exceed 1 ohm (m.32.4-5).",
+    "ref": "m.32.4, m.32.5"
+  },
+  "SAB-011": {
+    "choices": [
+      "Annul Fencer X's hit and give Fencer X a red card (second group, penalty hit) for the dangerous blow with the guard",
+      "Award Fencer X's hit and then give Fencer X a red card, because the blow came after the hit had been scored",
+      "Annul Fencer X's hit and give Fencer X a yellow card, because the blow with the guard is a first group offence like a hit with the guard",
+      "Award Fencer X's hit and take no action, because the blow came after the hit had been scored and cannot be punished"
+    ],
+    "correct": 0,
+    "explain": "A dangerous, violent or vindictive action, including a blow struck with the guard, is a second group offence: a red card (penalty hit) every time, and any hit scored by the fencer at fault is annulled (t.121.2; t.166; t.170 item 2.6). The blow follows the hit in one continuous action, so the hit is connected with the offence and is annulled with it (t.161).",
+    "ref": "t.121.2, t.161, t.166, t.170 (2.6)"
+  },
+  "SAB-012": {
+    "choices": [
+      "Annul both hits because both lamps are lit, and replace the fencers on guard in the position where the bout was halted",
+      "Annul Fencer X's hit, give Fencer X a yellow card for the fleche, and award Fencer Y's hit",
+      "Award Fencer X's hit, because the fleche scored first and the counter attack made while retreating had no priority",
+      "Annul Fencer X's hit, give Fencer X a red card for the forbidden fleche, and award Fencer Y's hit"
+    ],
+    "correct": 1,
+    "explain": "A fleche or any forward movement in which the rear foot passes the front foot is forbidden at sabre. The hit of the fencer at fault is annulled and any hit correctly executed by the opponent is valid (t.101.5), so Fencer Y's hit counts when it arrived in the same fencing time. With no earlier penalties in the bout it is a first offence in the first group, so a yellow card (t.165; t.170 item 1.12).",
+    "ref": "t.101.5, t.165, t.170 (1.12)"
+  },
+  "SAB-013": {
+    "choices": [
+      "That the conductive surface covers the trunk and the arms as far as the elbows",
+      "That the conductive surface covers the trunk only, because the arms are not valid target at sabre",
+      "That it covers the whole valid target above the hip-bone line when on guard",
+      "That it covers the whole valid target when the fencer stands upright"
+    ],
+    "correct": 2,
+    "explain": "Before the bout the referee checks that the FIE guarantee label is present on the equipment (t.64.1) and that the sabre conductive jacket conforms to m.34 with the fencer on guard (t.64.4): the conductive surface must cover entirely and without omission the valid target above the horizontal line joining the tops of the hip bones, and the arms as far as the wrists (m.34.1-2).",
+    "ref": "t.64.1, t.64.4, m.34.1-2"
+  },
+  "SAB-014": {
+    "choices": [
+      "Give Fencer X a yellow card and annul the riposte, because the action was interrupted when the weapon was dropped",
+      "Award Fencer Y's hit only, with no penalty, since the weapon fell after the parry and the fall did not stop the riposte",
+      "Give Fencer X a red card but replace the fencers on guard without awarding Fencer Y's hit",
+      "Award Fencer Y's hit and give Fencer X a red card (second group); the hit counts in addition to the penalty hit"
+    ],
+    "correct": 3,
+    "explain": "Intentionally dropping the weapon during the fencing phrase is a second group offence: red card (penalty hit). The opponent's hit is valid provided the action was started before 'Halt!' (t.56.11; t.170 item 2.4). Fencer Y's immediate riposte was already under way, so Fencer Y gets the hit and the penalty hit.",
+    "ref": "t.56.11, t.166, t.170 (2.4)"
+  },
+  "SAB-015": {
+    "choices": [
+      "A simple and immediate offensive action that follows the original attack, made without withdrawing the arm",
+      "A new action made against an opponent who has parried without riposting or who has avoided the first action by retreating",
+      "A new attack executed immediately after a return to the on-guard position",
+      "Any action made by the attacker against a stop hit made by the opponent"
+    ],
+    "correct": 2,
+    "explain": "The reprise of the attack is a new attack executed immediately after a return to the on-guard position (t.13.3). The first option is the remise (t.13.1), the second is the redoublement (t.13.2) and the last is counter-time (t.13.4).",
+    "ref": "t.13.1-4"
+  },
+  "SAB-016": {
+    "choices": [
+      "Give Fencer X a red card, because Fencer X already has a yellow card in this bout and the weapon does not conform",
+      "Confiscate the weapon and have Fencer X use another one; no penalty, as the fault could come from the bout",
+      "Annul Fencer X's last hit and give a red card for presenting defective equipment on the piste",
+      "Annul Fencer X's last hit but give no card, and have Fencer X use another weapon"
+    ],
+    "correct": 1,
+    "explain": "Equipment found on the piste to be non-regulation or defective is confiscated and sent to the experts (t.70). When the irregularity found during a bout could have been caused by conditions during the bout, the referee applies neither warning nor penalty, and any hit scored with equipment that has become defective is awarded (t.72). The yellow card does not change this, because no offence has been committed. Fencer X continues with a regulation weapon.",
+    "ref": "t.70, t.72"
+  },
+  "SAB-017": {
+    "choices": [
+      "Do not start the bout; have Fencer X come on guard correctly, not in line, and stay still, with no card at this stage",
+      "Start the bout and give priority to Fencer X, since the point in line is already established when the command is given",
+      "Give Fencer X a yellow card immediately for coming on guard in line, then start the bout",
+      "Give Fencer X a red card at once, because coming on guard in line is a second group offence"
+    ],
+    "correct": 0,
+    "explain": "At foil and sabre the fencers may not come on guard in the 'in line' position (t.22.13), and they must come on guard correctly and stay still until the command is given (t.22.12). No movement made before the command counts (t.23.1). The referee therefore has Fencer X come on guard correctly before starting the bout. A first group penalty only follows if Fencer X refuses to obey the referee (t.112; t.170 item 1.13).",
+    "ref": "t.22.12-13, t.23.1, t.112, t.170 (1.13)"
+  },
+  "SAB-018": {
+    "choices": [
+      "Annul the hit and replace the fencers on guard, because the cut landed on the guard, which is not valid target",
+      "Annul the hit and give Fencer Y a yellow card for presenting a weapon with a non-insulated pommel nut",
+      "Treat it as a hit off the target: the phrase stops and no hit is awarded",
+      "Do not annul the hit: award it to Fencer X, because a non-insulated pommel does not justify annulment"
+    ],
+    "correct": 3,
+    "explain": "If the sabre of the fencer judged to have been hit does not conform to m.24.6-8 (insulation of the interior and exterior of the guard, the handle and the pommel), there is no annulment, even if the hit on the weapon causes a signal to register (t.99.2). Fencer X's hit stands. Fencer Y still has to correct the weapon.",
+    "ref": "t.99.2, m.24.6-8"
+  },
+  "SAB-019": {
+    "choices": [
+      "5 cm",
+      "2 cm",
+      "3 cm",
+      "10 cm"
+    ],
+    "correct": 0,
+    "explain": "The conductive material of the glove must be turned over into the inside of the gauntlet to a depth of at least 5 cm (m.33.2).",
+    "ref": "m.33.2"
+  },
+  "SAB-020": {
+    "choices": [
+      "Let the bout start: a ponytail is allowed as long as it is tied, even if it rests on the back",
+      "Give Fencer X a yellow card (first group) and have the hair fastened so it no longer covers a valid surface",
+      "Give Fencer X a red card at once, because hair covering the lame is a second group offence",
+      "Ask Fencer X to rearrange it with no penalty, because a hair offence only counts if the hair falls out during the bout"
+    ],
+    "correct": 1,
+    "explain": "Before the start of the bout the hair must be fastened and placed inside the clothing and/or mask so that it does not cover a valid surface, does not hide the name and nationality, and does not need to be put back during the bout. Violation is a first group offence (t.115.2; t.170 item 1.14): a yellow card the first time.",
+    "ref": "t.115.2, t.165, t.170 (1.14)"
+  },
+  "SAB-021": {
+    "choices": [
+      "Annul Fencer X's hit and award Fencer Y's hit, with a yellow card for Fencer X, because Fencer Y's remise was correctly executed",
+      "Annul both remises as a simultaneous action and replace the fencers on guard, with no penalty",
+      "Award the hit to Fencer Y with no penalty, because Fencer X's cross step was only a preparation, not an attack",
+      "Give Fencer X a yellow card and award no hit: the crossing step ended the phrase, so the remises are void"
+    ],
+    "correct": 3,
+    "explain": "Any forward movement in which the rear foot passes the front foot is forbidden at sabre: the referee halts the bout (t.23.5) and the offence is in the first group, a yellow card the first time (t.101.5; t.165; t.170 item 1.12). Fencer Y's stop-cut was the action made within the fencing time and it missed. Nothing started after the halt counts (t.23.3), so the remises are not counted at all. No hit is awarded, and the fencers are replaced where the bout was halted (t.22.7).",
+    "ref": "t.101.5, t.23.3, t.23.5, t.165, t.170 (1.12), t.22.7"
+  },
+  "SAB-022": {
+    "choices": [
+      "Award the hit to Fencer X, since Fencer Y failed to find the blade (derobement)",
+      "Annul both hits as a simultaneous action, because both fencers started their attacks at the same time",
+      "Award the hit to Fencer Y, because Fencer Y was the one who attempted to deflect the opponent's blade first",
+      "Replace the fencers on guard, because the fault cannot be clearly assigned to either fencer"
+    ],
+    "correct": 0,
+    "explain": "If, when trying to find the opponent's blade to deflect it, the attacker does not find it (derobement), the right of attack passes to the opponent (t.102.2). The attacker who attempts to find the blade, fails, and continues is alone counted as hit (t.106.4.b). Fencer X gets the hit.",
+    "ref": "t.102.2, t.106.4.b"
+  },
+  "SAB-023": {
+    "choices": [
+      "Give a yellow card, but let the fencer fence with it; the glove only has to be replaced before the next bout",
+      "Red card straight away, because non-conforming equipment brought to the piste is a second group offence",
+      "Confiscate the glove with no penalty; the fencer has 5 minutes to get a conforming one",
+      "Confiscate the glove and give a yellow card (first group); the fencer has 5 minutes to get a conforming one"
+    ],
+    "correct": 3,
+    "explain": "The glove must have an elastic band, a popper button or another approved system to guarantee contact with the jacket sleeve (m.33.3). Non-regulation equipment on the piste is confiscated (t.70). Non-conforming clothing or equipment is a first group offence: a yellow card the first time, and the fencer must obtain regulation equipment in no more than 5 minutes (t.71; t.170 item 1.8).",
+    "ref": "m.33.3, t.70, t.71, t.170 (1.8)"
+  },
+  "SAB-024": {
+    "choices": [
+      "When the attacker touches the opponent's blade, even lightly, before starting the lunge",
+      "When the attacker first beats or takes the opponent's blade; mere contact is not enough",
+      "Always, because an attack takes precedence over a point in line",
+      "When the attacker straightens the arm before launching the lunge, as for any attack"
+    ],
+    "correct": 1,
+    "explain": "If the attack is initiated when the opponent has a point in line, the attacker must first deflect the opponent's blade, by a beat or by taking the blade. Referees must ensure that a mere contact of the blades is not considered sufficient (t.102.1). Without that, the attacker alone is counted as hit (t.106.4.a). Likewise the fencer in line who, after being beaten or taken, attacks or replaces the point in line instead of parrying is alone counted as hit (t.106.3.e).",
+    "ref": "t.102.1, t.106.3.e, t.106.4.a, t.15"
+  },
+  "SAB-025": {
+    "choices": [
+      "Only when the opponent's hit actually lands on the substituted area",
+      "Only after the fencer has already received a warning for the same fault earlier in the bout",
+      "Only when the judges confirm it; the referee cannot decide this alone",
+      "When it occurs during the fencing phrase, whether or not a hit lands there"
+    ],
+    "correct": 3,
+    "explain": "At sabre it is forbidden to protect the target area or substitute another part of the body for it by covering it. If this happens during the fencing phrase, any hit scored by the fencer at fault is annulled and the offence is in the first group, whether or not the opponent's hit lands there (t.97.2; t.30.1; t.170 item 1.4).",
+    "ref": "t.97.2, t.30.1, t.170 (1.4)"
+  },
+  "SAB-026": {
+    "choices": [
+      "Award the hit to Fencer X, because Fencer X made the parry and the renewed attack came too late",
+      "Annul both hits as a simultaneous action, because the lights came on together",
+      "Award the hit to Fencer Y: the delayed riposte gave Fencer Y the right to renew the attack",
+      "Replace the fencers on guard because the phrase cannot be judged with certainty"
+    ],
+    "correct": 2,
+    "explain": "The fencer who, after a successful parry, makes a momentary pause (delayed riposte) which gives the opponent the right to renew the attack is alone counted as hit (t.106.3.c). Only an immediate, simple riposte annuls the attacker's later actions (t.105.1).",
+    "ref": "t.106.3.c, t.105.1"
+  },
+  "SAB-027": {
+    "choices": [
+      "Annul both hits as a simultaneous action, because both fencers hit at the same time",
+      "Award the hit to Fencer X: the point in line came first and Fencer Y failed to find the blade (derobement)",
+      "Award the hit to Fencer Y, because an attack with a step-forward-lunge always has priority over a point in line",
+      "Award the hit to Fencer Y, because Fencer Y attempted to deflect the blade by stepping forward"
+    ],
+    "correct": 1,
+    "explain": "Fencer X had the point in line before Fencer Y started to attack, so Fencer Y had to deflect the blade first (t.102.1). Fencer Y tried to find the blade but failed (derobement), so the right of attack passes to Fencer X (t.102.2). The attacker who does this and continues is alone counted as hit (t.106.4.a-b). This assumes Fencer X keeps the line and hits with the tip of the blade.",
+    "ref": "t.102.1-2, t.106.4.a-b"
+  },
+  "SAB-028": {
+    "choices": [
+      "Award the hit to Fencer Y: the beat on the forte gives the right to an immediate riposte",
+      "Award the hit to Fencer X, because a beat on the blade always keeps the priority of the attack",
+      "Annul both hits as a simultaneous action, because both landed at the same time",
+      "Replace the fencers on guard, because it cannot be determined who was at fault"
+    ],
+    "correct": 0,
+    "explain": "A beat made on the forte (the third of the blade nearest the guard) means the attack is badly executed and gives the opponent the right to an immediate riposte. Only a beat on the foible (the two thirds furthest from the guard) keeps the attack's priority (t.104).",
+    "ref": "t.104.1-2"
+  },
+  "SAB-029": {
+    "choices": [
+      "Award the hit to Fencer Y, because a point in line established at the start of the bout always has priority",
+      "Replace the fencers on guard, because it cannot be determined whose action started first",
+      "Award the hit to Fencer X: the attack began first, so Fencer Y's point in line is only a counter attack",
+      "Annul both hits as a simultaneous action, because both fencers acted right after the command"
+    ],
+    "correct": 2,
+    "explain": "A point in line only obliges the attacker to deflect it when it was established before the attack began (t.102.1). The attack started first and was correct (t.101.3-4); Fencer Y, as the fencer attacked, who makes a stop hit is alone counted as hit (t.106.3.a).",
+    "ref": "t.102.1, t.101.3-4, t.106.3.a"
+  },
+  "SAB-030": {
+    "choices": [
+      "Award the hit to Fencer X, because a compound attack always has priority over any riposte",
+      "Award the hit to Fencer Y, who found the blade during a feint and riposted immediately",
+      "Annul both hits as a simultaneous action, because they landed at the same time",
+      "Replace the fencers on guard, because it cannot be determined who was at fault"
+    ],
+    "correct": 1,
+    "explain": "If, during a compound attack, the opponent finds the blade during one of the feints, the opponent has the right to riposte (t.103). The attacker who allows the opponent to find the blade and continues the attack while the opponent ripostes immediately is alone counted as hit (t.106.4.c).",
+    "ref": "t.103, t.105.1, t.106.4.c"
+  }
+}

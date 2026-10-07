@@ -1,0 +1,196 @@
+# FIE REFEREEING EXAM QUESTIONS
+# Source: 204024-171110-Refereeing exam questions EN (2).docx
+# Format: [ID] question text
+# IDs: GEN = general, SAB = sabre, EPE = epee, FOI = foil.
+
+=== GENERAL - 90 questions ===
+
+[GEN-001] (#1) Minimum for a fencer to rest between two direct elimination bouts?
+[GEN-002] (#2) Minimum for a fencer to rest between two pool bouts?
+[GEN-003] (#3) If two fencers in a pool have the same nationality, what should the referee check in relation to the bout order?
+[GEN-004] (#4) What should the referee do if scores are equal at the end of regulation time in a pool bout?
+[GEN-005] (#5) If after the additional minute at the end of regulation time, neither of the fencers has managed to score a valid hit, what should the referee mark down on the score-sheet if the score is 0 - 0?
+[GEN-006] (#6) In a team match, if the order of relay bouts is changed, intentionally or unintentionally, what should the referee do?
+[GEN-007] (#7) In a team match, if when the score is 9-5 in the second relay, the fencer in the lead scores a valid hit and at the same time the opponent receives a red card, what should the referee record on the score-sheet?
+[GEN-008] (#8) In a team match, when should the replacement of a team member by the reserve fencer be announced?
+[GEN-009] (#9) In a team competition, can a fencer who has been replaced fence again in the same match?
+[GEN-010] (#10) In a team competition can a fencer who was replaced for medical reason fence again in the same match?
+[GEN-011] (#11) In a team competition which relay/bout a replaced fencer can fence again in the same match?
+[GEN-012] (#12) In a team match if an injury is duly recognized by the competition doctor, can the reserve fencer continue the relay that the injured fencer has already begun?
+[GEN-013] (#13) In a team match can a team start the match without a reserve fencer?
+[GEN-014] (#14) In a team match can a team end the match with only two fencers?
+[GEN-015] (#15) If in a team match, after the announcement that a fencer is to be substituted, an accident occurs in the bout which follows the request for a substitution, can the team captain annul that request?
+[GEN-016] (#16) Except where there is a special device (attachment or orthopedic shape) can the hand be slipping along the handle from front to back during an offensive action?
+[GEN-017] (#17) Can the weapon be used as a throwing weapon?
+[GEN-018] (#18) Can the fencer change the sword arm before the end of the bout?
+[GEN-019] (#19) If a fencer appears on the piste with only one regulation weapon
+[GEN-020] (#20) Before the additional minute begins, where should the fencers be placed on guard?
+[GEN-021] (#21) After the bout has been halted without awarding any hits, after a penalty with a red card, where should the fencers be placed on guard?
+[GEN-022] (#22) If the lateral boundaries of the piste were not crossed, may the replacing on guard at the correct distance place one fencer behind the rear line?
+[GEN-023] (#23) If a fencer crosses the lateral boundaries of the piste with one or two feet, how should the referee replace the fencers on guard, if the fencer who crossed the boundaries has done so after making an attack?
+[GEN-024] (#24) If a fencer crosses the lateral boundaries of the piste with one or two feet following a lateral movement or a retreat, what should the referee do to replace the fencers on guard?
+[GEN-025] (#25) Can a hit be awarded to a fencer who has one foot off the piste, before the bout is halted?
+[GEN-026] (#26) Can a hit be awarded to a fencer who has both feet off the piste, before the bout is halted?
+[GEN-027] (#27) Is the use of the non-sword hand or arm to perform a defensive or offensive action punishable, if the opponent still manages to make a hit?
+[GEN-028] (#28) Before the start of the bout, the fencer comes to engard line on the piste with hair covering a valid surface or the name and nationality on the jacket
+[GEN-029] (#29) During a bout, if the fencers use his non-sword arm to touch his body wire, what should the referee do?
+[GEN-030] (#30) If an injury occurs during a bout, can a referee decide to give break for medical reason without obtaining the competition doctor’s opinion, if he is sure there is an injury?
+[GEN-031] (#31) Can a second break for the medical reason be granted for the same injury in the same day?
+[GEN-032] (#32) Can as many times break for the medical reason be granted as there are different injuries, in the course of one day, with the agreement of the competition doctor?
+[GEN-033] (#33) Can a fencer who has been allowed a break for the medical reason following an injury resume the fight before the five minute period has ended?
+[GEN-034] (#34) In which competition must the name and nationality appear on the back of the fencer’s jacket?
+[GEN-035] (#35) In which competitions the wearing of national strips (logos) is compulsory?
+[GEN-036] (#36) What penalty is applied if the name and nationality on the jacket of fencer are missing in a senior team World Cup competition?
+[GEN-037] (#37) On what part of the body are national logos mandatory?
+[GEN-038] (#38) When a complete team do not present themselves to the Referee at his first call, ten minutes before the time indicated to come on to the piste for the start, what is the penalty?
+[GEN-039] (#39) During the competition, when pools have started, what penalty is indicated for a fencer who fails to appear on the piste when called by the referee?
+[GEN-040] (#40) If a fencer appears on the piste without a protective under-plastron (offence of the first group)and with a weapon without a weapon control mark (second group offence), with which fault does the referee begin?
+[GEN-041] (#41) Pistes: width and length of pistes?
+[GEN-042] (#42) Are the conductive safety borders, alongside the piste in the final a part of the pistes?
+[GEN-043] (#43) If both fencers are warming up at an official FIE competition venue, what clothing should they wear?
+[GEN-044] (#44) What is the minimum a fencer should wear if he is having a lesson at an FIE competition venue?
+[GEN-045] (#45) Can a coach give a lesson without a mask and without a plastron at an FIE competition venue?
+[GEN-046] (#46) Size regulation fort the fencing jacket:
+[GEN-047] (#47) In the case of a simple corps à corps (contact between two fencers), what should the referee do?
+[GEN-048] (#48) Can an intentional corps a corps to avoid a hit be punishable, even if the fencer who has been subjected to the fault succeeded in scoring a hit?
+[GEN-049] (#49) Is ducking with the non-sword hand and the knee of rear leg touching the piste permitted?
+[GEN-050] (#50) Is a hit made after passing his opponent by the competitor who has made the passing movement valid?
+[GEN-051] (#51) Is the hit made immediately, even when turning round, by the competitor who has been subjected to the offensive action valid?
+[GEN-052] (#52) At which stage in the individual competition does the use of judges become mandatory in individual events?
+[GEN-053] (#53) In the event of a request for a break for an injury deemed unjustified by the doctor, should the fencer at fault be punished?
+[GEN-054] (#54) Can a hit that clearly arrives on a valid target, but which is not registered by the scoring apparatus, as either valid or invalid, be counted?
+[GEN-055] (#55) Who can ask the referee for a video review in a team match?
+[GEN-056] (#56) Apart from a request from one of the fencers, does the referee have other possibilities for consulting the video?
+[GEN-057] (#57) Can the referee consult the video a second time about the same action?
+[GEN-058] (#58) A fencer who, intentionally, causes the apparatus to register a hit on any surface other than that of his opponent
+[GEN-059] (#59) Can a fencer who has been hit ask for the hit to be cancelled because of a failure of equipment if he made any modifications?
+[GEN-060] (#60) After the bout has effectively recommenced, may a fencer ask for a hit to be annulled due to failure of equipment?
+[GEN-061] (#61) How many times must the referee observe a repeated failure of equipment before annulling a hit?
+[GEN-062] (#62) When a competitor against whom a hit has been registered has broken his blade clearly after the hit has been registered, must the referee cancel the hit?
+[GEN-063] (#63) When a competitor against whom a hit has been registered has broken his blade during the action, must the referee cancel the hit?
+[GEN-064] (#64) How many times may the fencer appeal for video-refereeing in direct elimination bout?
+[GEN-065] (#65) In the bout/relay of a team match, how many times may a fencer appeal for video-refereeing?
+[GEN-066] (#66) When may a fencer retain the right of appeal for video-refereeing in the same bout?
+[GEN-067] (#67) What does the national uniform include?
+[GEN-068] (#68) Is the national uniform in team event allowed:
+[GEN-069] (#69) Use of the chest protector is :
+[GEN-070] (#70) At all weapons the gauntlet of the glove must fully cover approximately:
+[GEN-071] (#71) In team competition fencers of the team have masks of different colours. What should the referee do?
+[GEN-072] (#72) A competitor X stops before the word ‘Halt!’, and in this moment an opponent Y hits. What should the referee do?
+[GEN-073] (#73) How many maximum repetitions of the action can a referee review for the video analyzing?
+[GEN-074] (#74) May the referees combine their function with other activity during the tournament?
+[GEN-075] (#75) The name of the fencer and the abbreviation of the national federation below on the back of the jacket must be printed:
+[GEN-076] (#76) Who has the right in team events to make an appeal to Referee against the decision of the Referee ?
+[GEN-077] (#77) Who has the right in individual events to make an appeal to Referee against the decision of the Referee?
+[GEN-078] (#78) What is the fencing time?
+[GEN-079] (#79) How many appeals for video-refereeing has the fencer in the individual events?
+[GEN-080] (#80) Which of the actions below is defensive
+[GEN-081] (#81) Which of the actions below is offensive
+[GEN-082] (#82) How the fencer will be penalized for unjustified appeal
+[GEN-083] (#83) When can the fencer take off his mask on or off the piste?
+[GEN-084] (#84) A left handed fencer arrives on the piste with an under-plastron for right handed fencer.
+[GEN-085] (#85) The correct distance between two fencers when they come on guard (other than at the on guard lines) is:
+[GEN-086] (#86) Must a hit made during or after a fall be annulled?
+[GEN-087] (#87) During the attack of fencer X, fencer Y intentional falls down to avoid the touch and hit the opponent X
+[GEN-088] (#88) From which point should be timed the break for medical reason?
+[GEN-089] (#89) In team competitions one of the team members inside the Team Enclosure protesting aggressive about the referee’s decision
+[GEN-090] (#90) In team competitions a team member entered piste enclosure without referees permission
+
+=== SABRE - 30 questions ===
+
+[SAB-001] (#91) Fencer X makes a step-forward-lunge with a head cut. Fencer Y makes a counter attack. The apparatus registers only Y’s hit and the referee notes that mask wire is disconnected. What should the referee do?
+[SAB-002] (#92) Fencer X establishes a point in line before the start of Y’s double step-forward-lunge attack. Both fencers hit with the cutting edge of the blade. What should the referee do?
+[SAB-003] (#93) A left-handed fencer arrives on the piste with a conductive jacket for right-handed fencer.
+[SAB-004] (#94) Fencer X attacks and hits directly with the guard instead of blade. Fencer Y makes a counter attack. Both actions land valid
+[SAB-005] (#95) Fencer X and Fencer Y make simultaneous attacks, Fencer X finishes attack with guard on the mask of fencer Y without brutality, both actions land valid
+[SAB-006] (#96) Immediately after the command " Allez!" is given, Fencer X makes a step-lunge attack and Fencer Y establishes a point in line. Both actions land valid. What should the referee do?
+[SAB-007] (#97) Both fencers are sanctioned with a yellow card. Fencer X is leading 4:3 and makes a fleche attack with crossing the legs. Fencer Y makes a counter attack. Both actions land valid. What should the referee do?
+[SAB-008] (#98) The maximum length of the blade is:
+[SAB-009] (#99) The deflection of the sabre blade must be:
+[SAB-010] (#100) The mask wire:
+[SAB-011] (#101) Fencer X attacks and hits Fencer Y with blade on valid target, Fencer X continue the forward movement and blows with the guard in dangerous way Fencer Y's mask immediately after the hit.
+[SAB-012] (#102) With no penalties given in the bout, Fencer X makes a fleche-attack (crossing the feet) and scores a hit. While retreating, Fencer Y makes a counter attack and scores a hit. Apparatus fixes both red and green lamps. The referee should:
+[SAB-013] (#103) What feature should the Referee check about the sabre fencer’s conductive jacket?
+[SAB-014] (#104) Fencer X drops intentionally the weapon after Fencer Y executes a parry. Y immediate riposte scores a valid hit. The referee should:
+[SAB-015] (#105) A reprise of the attack is:
+[SAB-016] (#106) Fencer X has a YELLOW CARD. During a halt, Fencer X’s weapon is found not to conform to the Rules with a fault that could have been caused during the fencing. The referee should:
+[SAB-017] (#107) Before the command "Allez" is given, Fencer X establishes a line. What should the Referee do?
+[SAB-018] (#108) Fencer X makes an attack that clearly registers a valid hit as X’s cut arrives on the guard of Fencer Y. Upon examination it is found that Y has a non-insulated pommel nut. What should the Referee do?
+[SAB-019] (#109) The metallic fabric covering the conductive gauntlet must be folded to the inside of the cuff to a depth of at least:
+[SAB-020] (#110) Fencer X comes on guard with hair in a ponytail resting on the lame on the back. What should the Referee do?
+[SAB-021] (#111) With no penalties given in the bout, Fencer X makes a cross step forward. While retreating, Fencer Y makes a stop-cut. Neither of these actions lands. Both fencers immediately remise their actions, the remises land at the same time. What should the Referee do?
+[SAB-022] (#112) Both fencers start attacks at the same time. Fencers Y with a forward step attempts to find Fencer X's blade but fails. Both fencers hit at the same time on valid target. What should the Referee do?
+[SAB-023] (#113) Fencer X reports to the piste with a conductive gauntlet that has no provision, such as elastic, to ensure good contact with the sleeve of the lame. What should the Referee do?
+[SAB-024] (#114) When does attack of the fencer has the right of way if his opponent has his point in line?
+[SAB-025] (#115) When substitution of another part of the body for the target area by covering will be penalised?
+[SAB-026] (#116) Fencer X after making a successful parry makes a momentary pause (delayed riposte) and his opponent Y renews the attack. Both lights are on. What should be the outcome of referee?
+[SAB-027] (#117) Fencer X establishes a point in line before Fencers Y started attack step-forward-lunge, with a forward step Y tried to find Fencer X's blade but fails. Both fencers hit at the same time on valid target. What should the Referee do?
+[SAB-028] (#118) Fencer X made an attack by beating on the forte of the opponent’s Y blade and both fencers hit at the same time on the valid target
+[SAB-029] (#119) Immediately after "Allez!" Fencer X started attack and Fencer Y establish a point in line, both hits landed valid, what should the Referee do?
+[SAB-030] (#120) During his compound attack fencer X touches the blade of fencer Y, both hit at the same time
+
+=== EPEE - 30 questions ===
+
+[EPE-001] (#121) How are the gauges used to test the epee point?
+[EPE-002] (#122) Fencer X has just received a YELLOW CARD and had his weapon confiscated for having a point that did not lift the weight after being depressed. His second weapon at the pistes is missing one of the screws to hold the point in. What should the Referee do?
+[EPE-003] (#123) With no penalties given, Fencer X appears at the piste without a safety device to secure the body wire inside the guard. What should the Referee do?
+[EPE-004] (#124) In what way the curve of the epee blade is permitted?
+[EPE-005] (#125) May the epee be held by the pommel?
+[EPE-006] (#126) What is the maximum curve allowed in the epee blade?
+[EPE-007] (#127) Just after the second of two hits has been scored against Fencer X, it is found that the floor cable connected to X’s reel has become unplugged. What should the Referee do?
+[EPE-008] (#128) In team competitions in nines relay after one minute the score is 44:44, both teams have already received P-red cards, after one minute of fencing without a hit what should the referee do?
+[EPE-009] (#129) Fencer X attacks at the foot of fencer Y and a hit is registered. Fencer Y complains that there was no hit. The Referee has doubts about this hit and observes some spots of dirt in the area of the last action on the conductive piste which are registered by apparatus during the test. What should the Referee do?
+[EPE-010] (#130) A double hit is registered. Fencer Y has clearly hit Fencer X, but X’s touch is doubtful. What should the Referee do?
+[EPE-011] (#131) A double hit is registered. Fencer X is clearly hit by Fencer Y, but X’s point clearly hits the ground outside the conductive piste. What should the Referee do?
+[EPE-012] (#132) The epee spring must lift a test weight more than … grams?
+[EPE-013] (#133) The apparatus indicates a double hit. Before making a hit Fencer X crossed the lateral boundaries off the piste with both feet completely. What should the Referee do?
+[EPE-014] (#134) A double hit is registered as a result of the meeting of the points of the épées. What should the Referee do?
+[EPE-015] (#135) Three minutes of effective fencing time in a pool bout have passed and the score is 3:3. The Referee draws lots and starts an additional minute, there is a double hit after 10 sec. What is the correct outcome?
+[EPE-016] (#136) No penalties have been given. Fencer X has systematically caused corps à corps, but without jostling, and without avoiding a hit. What is the correct outcome?
+[EPE-017] (#137) The Referee clearly sees that a hit registered by Fencer X arrived on the guard of Fencer Y. In testing, a small area of oxidation is found that causes a valid touch to be registered. What should the Referee do?
+[EPE-018] (#138) No penalties have been given. Fencer X drags the point of his epee along the metallic piste while retreating. What should the Referee do?
+[EPE-019] (#139) In the fifth relay of a team match, the score is 24-24 when a double hit is scored and there is 1 minute remaining in that relay. What should the Referee do?
+[EPE-020] (#140) No penalties have been given, fencers X and Y make the actions simultaneously, hit of fencer Y is registered and hit of Fencer X not, Fencer X immediately presents the weapon for testing to the referee. While performing the tests, the referee notices that the epee is missing one tip screw. What should the Referee do?
+[EPE-021] (#141) Fencer Y is making a hit while crossing the lateral boundaries of the piste with one foot and Fencer X is on the piste with both feet. Both fencers’ lights are on before the Referee calls "Halt’‘.What should the Referee do
+[EPE-022] (#142) In case of unwillingness to fight (non-combativity) after one minute of fencing without a hit or without a hit scored off the target, when should the referee restart the one minute?
+[EPE-023] (#143) In the first relay of a team match, after one minute the score is 0:0. No penalties have been given for Fencer X, Fencer Y already has a yellow card. What should the Referee do?
+[EPE-024] (#144) At the beginning of the third period of an individual bout, with the score 14:14, Fencer X and Fencer Y have already received P-red cards, after one minute of fencing without a hit what should the referee do?
+[EPE-025] (#145) Both Fencers are hit but only a touch for Fencer Y is registered. Fencer X immediately presents his weapon for testing by the referee. While performing the test, the referee notices that Fencer X’s body-wire is unplugged at the back, and the safety device is missing. What should the Referee do?
+[EPE-026] (#146) Before the bout the referee notices that no safety device is present on Fencer Y’s epee. What should the Referee do?
+[EPE-027] (#147) Both Fencers hit, but only a hit for Fencer X is registered. Fencer Y grabs the barrel of the point of his weapon with his unarmed hand and then presents the weapon to the referee for testing. What should the Referee do?
+[EPE-028] (#148) If a double hit is registered by an established hit and a doubtful hit (failure of the electrical apparatus)?
+[EPE-029] (#149) Can the fencer use a foil mask for epee competitions?
+[EPE-030] (#150) Is a hit made on the guard of the competitor against whom the hit was registered valid?
+
+=== FOIL - 30 questions ===
+
+[FOI-001] (#151) Fencer arrived to the piste with foil without covering with insulating material the body of the button and the foil blade. What should the Referee do?
+[FOI-002] (#152) Fencers start at the same time. Fencer X makes attack by beating on the forte of the opponent’s blade. Fencer Y makes direct attack. Both hit at the same time on valid target.
+[FOI-003] (#153) Fencer X comes to the piste wearing a conductive jacket with a small patch sewn on it. During the check it is found that the patch registers non-valid.
+[FOI-004] (#154) When the attack of fencer Y started his opponent X intentionally hit on the ground, attack of Y landed on valid target.
+[FOI-005] (#155) At the beginning of the third period of an individual bout, with the score 14:14, Fencer X and Fencer Y have already received P-red cards, after one minute of fencing without a hit what should the referee do?
+[FOI-006] (#156) Where must the crocodile clip of the body-wire be attached to the fencer’s conductive jacket?
+[FOI-007] (#157) Fencer Y attacks and fencer X parries with the unarmed hand and then makes a valid hit
+[FOI-008] (#158) Before the command "Fence" is given, fencer X comes on guard with his point in line.
+[FOI-009] (#159) Fencer X has received a yellow card for covering the target in the current bout. In the same bout Fencer X causing corps à corps to avoid a touch and fencer Y makes a valid hit.
+[FOI-010] (#160) Fencer Y has received a yellow card for covering the target in the current bout. Fencers X and Y come together, both causing corps a corps without jostling or attempting to avoid the hit. The Referee calls "Halt! "What is the correct outcome?
+[FOI-011] (#161) What is the maximum bend allowed in the foil blade?
+[FOI-012] (#162) In what way may the foil blade be bent?
+[FOI-013] (#163) The foil spring must lift a test weight not less the …. grams?
+[FOI-014] (#164) What feature should be checked concerning the foible of the blade?
+[FOI-015] (#165) Fencer X received a yellow card in the current bout. Fencer X drags the point of his blade on the metallic piste and immediately hits his opponent in valid target.
+[FOI-016] (#166) When substitution of another part of the body for the target area by covering will be penalized?
+[FOI-017] (#167) The conductive jacket must be so made that when it is laid flat there is a straight line between?
+[FOI-018] (#168) The mask wire
+[FOI-019] (#169) In the first relay of a team match, after one minute the score is 0:0. No penalties have been given for Fencer X, Fencer Y already has a yellow card. What should the Referee do?
+[FOI-020] (#170) In team match (9 relays) the P Cards are valid?
+[FOI-021] (#171) How must be worn breast/chest protector?
+[FOI-022] (#172) Attack of Fencer X is not registered, counter attack of fencer Y miss the opponent, then both fencers hit at the same time on valid target.
+[FOI-023] (#173) Fencer X makes a correctly executed simple attack with valid hit. Fencer Y makes a counter attack but his hit does not register. Immediately afterwards and under the supervision of the referee, fencer Y asks to check his weapon. The weapon is not working.
+[FOI-024] (#174) When dragging the point of the conductive piste is forbidden?
+[FOI-025] (#175) No cards were given. Fencer X makes a regular attack. Fencer Y covers his valid target with his non-sword arm during the attack. There is no doubt that Fencer X hits the non-sword arm of fencer Y.
+[FOI-026] (#176) Both fencers have received a yellow card. During the fight, at close quarters, Fencer X parries with his non-sword arm and scores a hit on fencer Y’s valid target. At the same moment fencer Y is covering his valid target with his mask and causes intentional corps a corps to avoid being hit.
+[FOI-027] (#177) Fencer X is in the "point in line’‘ position. Fencer Y starts an attack with a beat of the foible of his opponent‘s blade. Both fencers hit their opponents in a valid target
+[FOI-028] (#178) Fence X attacks, Fencer Y parries with hitting floor and remise of Fencer X arrived in the valid target. What is decision of referee?
+[FOI-029] (#179) When the stop- hit of the fencer has the right if his opponent executes a compound attack?
+[FOI-030] (#180) When attack of the fencer has right if his opponent has his point in line?

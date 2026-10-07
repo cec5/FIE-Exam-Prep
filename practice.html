@@ -1,0 +1,104 @@
+---
+layout: default
+title: Practice
+permalink: /practice/
+---
+
+<h1>Practice</h1>
+
+<div id="practice" data-questions="{{ '/assets/questions.txt' | relative_url }}" data-answers="{{ '/assets/answers.json' | relative_url }}">
+
+  <!-- 1. Setup -->
+  <section id="setup" hidden>
+    <p>The real theoretical exam is 20 multiple-choice questions on one weapon, and 80% is needed to pass.
+    Choose your exam below. Questions are drawn at random from the pool and shown in no particular order.</p>
+
+    <fieldset>
+      <legend>Exam type</legend>
+      <label class="choice"><input type="radio" name="mode" value="weapon"> <span>One weapon only</span> <small id="hint-weapon"></small></label>
+      <label class="choice"><input type="radio" name="mode" value="mix"> <span>Weapon and general (50/50)</span> <small id="hint-mix"></small></label>
+      <label class="choice"><input type="radio" name="mode" value="general"> <span>General questions only</span> <small id="hint-general"></small></label>
+    </fieldset>
+
+    <fieldset id="weapon-field">
+      <legend>Weapon</legend>
+      <label class="choice"><input type="radio" name="weapon" value="SAB"> <span>Sabre</span> <small id="hint-SAB"></small></label>
+      <label class="choice"><input type="radio" name="weapon" value="FOI"> <span>Foil</span> <small id="hint-FOI"></small></label>
+      <label class="choice"><input type="radio" name="weapon" value="EPE"> <span>&Eacute;p&eacute;e</span> <small id="hint-EPE"></small></label>
+    </fieldset>
+
+    <fieldset id="count-field">
+      <legend>Number of questions</legend>
+      <div class="count-row">
+        <input type="range" id="count-range" aria-label="Number of questions (slider)">
+        <input type="number" id="count-number" aria-label="Number of questions">
+      </div>
+    </fieldset>
+
+    <p id="summary" class="summary" aria-live="polite"></p>
+    <button id="start" class="button" type="button">Start exam</button>
+  </section>
+
+  <!-- 2. Exam -->
+  <section id="exam" hidden>
+    <div class="exam-top">
+      <span id="progress" aria-live="polite"></span>
+      <span id="answered-count"></span>
+    </div>
+    <div class="bar" role="presentation"><div id="bar-fill" class="bar-fill"></div></div>
+
+    <div class="card">
+      <p id="qtext" class="qtext"></p>
+      <div id="options" class="options" role="radiogroup" aria-labelledby="qtext"></div>
+    </div>
+
+    <div class="nav">
+      <button id="prev" type="button">&larr; Previous</button>
+      <button id="next" type="button">Next &rarr;</button>
+    </div>
+
+    <div class="exam-tools">
+      <button id="next-unanswered" class="link" type="button">Go to next unanswered question</button>
+      <button id="finish" class="button" type="button">Finish exam</button>
+    </div>
+
+    <details id="overview" class="overview">
+      <summary id="overview-summary">Question overview</summary>
+      <div id="navigator" class="navigator" aria-label="Question overview"></div>
+    </details>
+  </section>
+
+  <!-- 3. Results -->
+  <section id="results" hidden>
+    <h2>Results</h2>
+    <dl class="result-summary" id="result-summary">
+      <div><dt>Score</dt><dd id="r-score"></dd></div>
+      <div><dt>Percentage</dt><dd id="r-percent"></dd></div>
+      <div><dt>Pass mark</dt><dd id="r-needed"></dd></div>
+      <div><dt>Result</dt><dd id="r-result"></dd></div>
+    </dl>
+    <div class="result-actions">
+      <button id="retake" class="button" type="button">Retake with the same settings</button>
+      <button id="new-exam" type="button">Change settings</button>
+    </div>
+
+    <h2>Review</h2>
+    <div class="review-controls">
+      <label>Show
+        <select id="review-filter">
+          <option value="all">All questions</option>
+          <option value="issues">Wrong or not answered</option>
+          <option value="correct">Correct only</option>
+        </select>
+      </label>
+      <button id="expand-all" class="link" type="button">Expand all</button>
+      <button id="collapse-all" class="link" type="button">Collapse all</button>
+    </div>
+    <div id="review-list"></div>
+  </section>
+
+  <p id="error" class="error" hidden></p>
+  <noscript><p>This page needs JavaScript enabled.</p></noscript>
+</div>
+
+<script src="{{ '/assets/js/practice.js' | relative_url }}"></script>

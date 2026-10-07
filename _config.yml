@@ -1,0 +1,17 @@
+title: FIE Referee Exam Practice
+description: Practice questions for the FIE fencing referee exam.
+author: Christopher Cortez
+
+# For a project site served at https://<user>.github.io/<repo>, set baseurl to "/<repo>".
+# For a user site (<user>.github.io) or a custom domain, leave it empty.
+baseurl: ""
+url: ""
+
+markdown: kramdown
+
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - docs/*.docx
