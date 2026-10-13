@@ -3,7 +3,7 @@
 # Format: [ID] question text
 # IDs: GEN = general, SAB = sabre, EPE = epee, FOI = foil.
 
-=== GENERAL - 90 questions ===
+=== GENERAL - 91 questions ===
 
 [GEN-001] (#1) Minimum for a fencer to rest between two direct elimination bouts?
 [GEN-002] (#2) Minimum for a fencer to rest between two pool bouts?
@@ -95,8 +95,9 @@
 [GEN-088] (#88) From which point should be timed the break for medical reason?
 [GEN-089] (#89) In team competitions one of the team members inside the Team Enclosure protesting aggressive about the referee’s decision
 [GEN-090] (#90) In team competitions a team member entered piste enclosure without referees permission
+[GEN-091] After the bout has been halted without awarding any hits after a penalty with a yellow card, where should the fencers be placed on guard?
 
-=== SABRE - 30 questions ===
+=== SABRE - 36 questions ===
 
 [SAB-001] (#91) Fencer X makes a step-forward-lunge with a head cut. Fencer Y makes a counter attack. The apparatus registers only Y’s hit and the referee notes that mask wire is disconnected. What should the referee do?
 [SAB-002] (#92) Fencer X establishes a point in line before the start of Y’s double step-forward-lunge attack. Both fencers hit with the cutting edge of the blade. What should the referee do?
@@ -128,6 +129,12 @@
 [SAB-028] (#118) Fencer X made an attack by beating on the forte of the opponent’s Y blade and both fencers hit at the same time on the valid target
 [SAB-029] (#119) Immediately after "Allez!" Fencer X started attack and Fencer Y establish a point in line, both hits landed valid, what should the Referee do?
 [SAB-030] (#120) During his compound attack fencer X touches the blade of fencer Y, both hit at the same time
+[SAB-031] Fencer X attacks with a step-forward-lunge. Fencer X hits his opponent Y immediately after his front foot hits the piste. Fencer Y hits his opponent X with a counter attack. What should the referee do?
+[SAB-032] The correct distance between sabre fencers when they come on guard (other than at the on guard lines) is:
+[SAB-033] Fencer X makes a beat attack that arrives on the valid surface. On the beat, Fencer Y weapon drops to the piste. The referee should:
+[SAB-034] Fencer X makes an attack and Fencer Y makes a parry riposte hit directly without hesitating. The attacking fencer X broke his blade during the action. The referee should:
+[SAB-035] Both fencers attack at the same time. Fencer Y makes an attack that lands valid, while Fencer X's attack lands off the valid surface. What should the Referee do?
+[SAB-036] Both fencers start attacks simultaneously. While attacking, Fencer X makes a feint. Fencer Y does not react to the feint and makes a direct attack. Both hit at the same time and land on valid target. What should the Referee do?
 
 === EPEE - 30 questions ===
 
