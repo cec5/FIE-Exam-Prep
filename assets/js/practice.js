@@ -4,14 +4,16 @@ const WEAPONS = { SAB: "Sabre", FOI: "Foil", EPE: "Épée" };
 // Weapons that are switched on. Foil and épée stay off until their questions are ready,
 // even if answer data for them is added to answers.json.
 const IMPLEMENTED = { SAB: true, FOI: false, EPE: false };
-const MIN_QUESTIONS = 20;
-const SETTINGS_KEY = "fie-exam-settings-v1";
+// The real exam has 15 questions: 10 general and 5 on one weapon (2 general for each weapon question).
+const MIN_QUESTIONS = 15;
+const MAX_QUESTIONS = 120;
+const SETTINGS_KEY = "fie-exam-settings-v2";
 
 const $ = (id) => document.getElementById(id);
 const root = $("practice");
 const state = {
   pools: { GEN: [], SAB: [], FOI: [], EPE: [] }, // questions that have answer data
-  settings: { mode: "weapon", weapon: "SAB", count: MIN_QUESTIONS },
+  settings: { mode: "mix", weapon: "SAB", count: MIN_QUESTIONS },
   exam: null, // { items, index, finished }
 };
 
@@ -47,11 +49,11 @@ function passMark(n) {
 }
 
 // Split `count` questions between the general and weapon pools.
-// Mix is 50/50 (the odd question goes to general) until a pool runs out.
+// Mix is 2 general : 1 weapon, as in the real exam (15 = 10 + 5), until a pool runs out.
 function allocate(mode, count, generalAvail, weaponAvail) {
   if (mode === "general") return { general: count, weapon: 0 };
   if (mode === "weapon") return { general: 0, weapon: count };
-  let weapon = Math.floor(count / 2);
+  let weapon = Math.floor(count / 3);
   let general = count - weapon;
   if (weapon > weaponAvail) { weapon = weaponAvail; general = count - weapon; }
   if (general > generalAvail) { general = generalAvail; weapon = count - general; }
@@ -65,19 +67,19 @@ function limits(mode, weapon) {
   const name = WEAPONS[weapon];
   if (mode === "general") {
     return g >= MIN_QUESTIONS
-      ? { ok: true, max: g }
+      ? { ok: true, max: Math.min(g, MAX_QUESTIONS) }
       : { ok: false, max: g, reason: `Only ${g} general question${g === 1 ? " has" : "s have"} answers so far; at least ${MIN_QUESTIONS} are needed.` };
   }
   if (mode === "weapon") {
     return w >= MIN_QUESTIONS
-      ? { ok: true, max: w }
+      ? { ok: true, max: Math.min(w, MAX_QUESTIONS) }
       : { ok: false, max: w, reason: `Only ${w} ${name} question${w === 1 ? " has" : "s have"} answers so far; at least ${MIN_QUESTIONS} are needed.` };
   }
   if (g === 0 || w === 0) {
     return { ok: false, max: g + w, reason: `A mixed exam needs both general and ${name} questions with answers.` };
   }
   return g + w >= MIN_QUESTIONS
-    ? { ok: true, max: g + w }
+    ? { ok: true, max: Math.min(g + w, MAX_QUESTIONS) }
     : { ok: false, max: g + w, reason: `Only ${g + w} questions are available; at least ${MIN_QUESTIONS} are needed.` };
 }
 
@@ -141,7 +143,7 @@ function refreshSetup() {
     mix: modeAvailable("mix") ? "" : "needs general and weapon questions",
     general: g ? `${g} questions` : "no questions yet",
   };
-  for (const mode of ["weapon", "mix", "general"]) {
+  for (const mode of ["mix", "weapon", "general"]) {
     setChoiceState(
       document.querySelector(`input[name="mode"][value="${mode}"]`),
       modeAvailable(mode),
@@ -149,7 +151,7 @@ function refreshSetup() {
       modeHints[mode]
     );
   }
-  if (!modeAvailable(s.mode)) s.mode = ["weapon", "mix", "general"].find(modeAvailable) || s.mode;
+  if (!modeAvailable(s.mode)) s.mode = ["mix", "weapon", "general"].find(modeAvailable) || s.mode;
 
   document.querySelector(`input[name="mode"][value="${s.mode}"]`).checked = true;
   document.querySelector(`input[name="weapon"][value="${s.weapon}"]`).checked = true;
