@@ -285,9 +285,9 @@
       "bring in two judges to watch him",
       "penalise with a yellow card"
     ],
-    "correct": 1,
-    "explain": "During the fight the fencer must not take hold of any part of the electrical equipment with the non-sword hand. The referee imposes the penalties for offences of the first group and any hit scored by the fencer at fault is annulled (t.29.3). The referee may call for the help of two neutral judges to watch such infringements (t.30).",
-    "ref": "t.29.3, t.30"
+    "correct": 2,
+    "explain": "During the fight the fencer must not take hold of any part of the electrical equipment with the non-sword hand. The referee imposes the penalties for offences of the first group and any hit scored by the fencer at fault is annulled (t.29.3).",
+    "ref": "t.29.3"
   },
   "GEN-030": {
     "choices": [
